@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
 title: Ghost
@@ -32,10 +32,11 @@ disqus: False
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-6928197-1 # replace with your GA tracking identifier
 
 # Permalinks
-permalink: /:title
+permalink: posts/:title
+# permalink: /:categories/:year/:month/:day/:title/
 # permalink: /author/:author
 # permalink: /tag/:tag
 
