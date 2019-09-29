@@ -181,7 +181,7 @@ body, html {
 
 body {
     color: #3c484e;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Ubuntu', Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
     font-size: 1.5rem;
     line-height: 1.6em;
     font-weight: 400;
@@ -411,12 +411,12 @@ body {
 
 @media (min-width:900px) {
     .author-template .post-feed, .home-template .post-feed, .tag-template .post-feed {
-        margin-top: -70px;
+        margin-top: 70px;
         padding-top: 0
     }
     .home-template .site-nav {
         position: relative;
-        top: -70px
+        top: -10px
     }
 }
 
@@ -464,9 +464,9 @@ body {
     -ms-flex-align: center;
     align-items: center;
     padding: 10vw 4vw;
-    min-height: 200px;
-    max-height: 450px;
-    text-align: center
+    min-height: 60vh;
+    max-height: 700px;
+    text-align: left
 }
 
 .site-title {
@@ -484,7 +484,7 @@ body {
 .site-description {
     z-index: 10;
     margin: 0;
-    padding: 5px 0;
+    padding: 2rem 0;
     font-size: 2.2rem;
     font-weight: 300;
     letter-spacing: .5px;
@@ -703,9 +703,9 @@ body {
     min-height: 300px;
     background: #fff 50%;
     background-size: cover;
-    border-radius: 5px;
-    box-shadow: 8px 14px 38px rgba(39, 44, 49, .06), 1px 3px 8px rgba(39, 44, 49, .03);
-    transition: all .5s ease
+    border-radius: 0px;
+    box-shadow: 0px 0px 1px rgba(39, 44, 49, .06), 0px 0px 0px rgba(39, 44, 49, .03);
+    transition: all .4s ease
 }
 
 .post-card:hover {
@@ -718,7 +718,7 @@ body {
     position: relative;
     display: block;
     overflow: hidden;
-    border-radius: 5px 5px 0 0
+    border-radius: 0px 0px 0 0
 }
 
 .post-card-image {
@@ -766,7 +766,7 @@ body {
 }
 
 .post-card-excerpt {
-    font-family: Georgia, serif
+    font-family: Cambria, 'Dejavu Serif', Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .post-card-meta {
@@ -813,7 +813,7 @@ body {
         position: relative;
         -ms-flex: 1 1 auto;
         flex: 1 1 auto;
-        border-radius: 5px 0 0 5px
+        border-radius: 0px 0 0 0px
     }
     .home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) .post-card-image {
         position: absolute;
@@ -929,7 +929,7 @@ body {
     margin: 0 auto;
     padding: 70px 100px 0;
     min-height: 230px;
-    font-family: Georgia, serif;
+    font-family: Cambria, 'Dejavu Serif', Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 2.2rem;
     line-height: 1.6em;
     background: #fff
@@ -1129,7 +1129,7 @@ body {
 
 .post-full-content h1, .post-full-content h2, .post-full-content h3, .post-full-content h4, .post-full-content h5, .post-full-content h6 {
     color: #090a0b;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif
+    font-family: -apple-system, BlinkMacSystemFont, 'Ubuntu', Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif
 }
 
 .post-full-content h1 {
@@ -1186,7 +1186,7 @@ body {
     padding: 1em 0 1.5em;
     border: 0;
     color: #3eb0ef;
-    font-family: Georgia, serif;
+    font-family: Cambria, 'Dejavu Serif', Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 3.2rem;
     line-height: 1.35em;
     text-align: center
@@ -1266,7 +1266,7 @@ body {
     width: auto;
     border-spacing: 0;
     border-collapse: collapse;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Ubuntu', Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
     font-size: 1.6rem;
     white-space: nowrap;
     vertical-align: top;
@@ -1879,7 +1879,7 @@ body {
     -ms-flex-align: center;
     align-items: center;
     margin: 0 0 10px;
-    font-family: Georgia, serif;
+    font-family: Cambria, 'Dejavu Serif', Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: italic
 }
 
@@ -2015,7 +2015,7 @@ body {
 .subscribe-overlay-description {
     margin: 0 auto 50px;
     max-width: 650px;
-    font-family: Georgia, serif;
+    font-family: Cambria, 'Dejavu Serif', Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 3rem;
     line-height: 1.3em;
     font-weight: 300;

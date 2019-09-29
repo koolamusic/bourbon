@@ -144,3 +144,8 @@ td.code {
 .highlight table td:last-child {
     background: none;
 }
+
+
+.post-card-meta {
+    display: none;
+}
