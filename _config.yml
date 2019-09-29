@@ -9,14 +9,14 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Andrew Miracle
+description: I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are. 
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://jekyller.github.io/jasper2/
-source_url: https://github.com/jekyller/jasper2/
+production_url: https://localhost:4000
+source_url: https://localhost:4000
 CNAME: #add cname for website to be created
 
 # Social info
@@ -24,12 +24,12 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: koolamusic # replace by your username
+facebook: koolamusic # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: koolamusic # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-6928197-1 # replace with your GA tracking identifier
@@ -70,7 +70,7 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
+username: koolamusic
 repo: jasper2
 branch: master
 relative_source: ../jasper2/
