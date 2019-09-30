@@ -900,7 +900,10 @@ h5, h6 {
 }
 @media (max-width:500px) {
     .post-full-header {
-        padding: 14vw 3vw 10vw;
+        /* padding: 14vw 3vw 10vw; */
+        padding: 14vw 0vw 10vw;
+        margin-top: 2rem;
+        
     }
 }
 
@@ -983,13 +986,13 @@ h5, h6 {
 }
 
 .post-full-content:after, .post-full-content:before {
-    content: "";
     position: absolute;
     top: 15px;
     z-index: -1;
     display: block;
     width: 20px;
     height: 200px;
+    /* content: ""; */
     /* background: rgba(39, 44, 49, .15); */
     background: white;
     filter: blur(5px)
