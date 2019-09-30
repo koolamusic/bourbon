@@ -65,9 +65,9 @@ into the {body} of the default.hbs template -->
                 </section>
             {% endif %}
 
-            <footer class="post-full-footer">
-                <!-- Everything inside the #author tags pulls data from the author -->
-                <!-- #author-->
+            <!-- Everything inside the #author tags pulls data from the author -->
+            <!-- #author--
+                    <footer class="post-full-footer">
                 {% for author in site.data.authors %}
                     {% if author[1].username == page.author %}
                         <section class="author-card">
@@ -88,13 +88,14 @@ into the {body} of the default.hbs template -->
                         </div>
                     {% endif %}
                 {% endfor %}
-                <!-- /author  -->
             </footer>
+            </author  -->
 
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which
             should be replaced with your own Disqus site-id. -->
             {% if site.disqus or page.disqus %}
+            <div class="bottom-wrapper">
                 <section class="post-full-comments">
                     <div id="disqus_thread"></div>
                     <script>
@@ -110,6 +111,7 @@ into the {body} of the default.hbs template -->
                         })();
                     </script>
                 </section>
+            </div>
             {% endif %}
 
         </article>
@@ -118,8 +120,8 @@ into the {body} of the default.hbs template -->
 </main>
 
 <!-- Links to Previous/Next posts -->
-<aside class="read-next outer">
-    <div class="inner">
+<aside class="read-next outer alter">
+    <div class="inner f9f9fa">
         <div class="read-next-feed">
             {% if page.tags.size > 0 %}
                 {% assign primary = page.tags | first %}

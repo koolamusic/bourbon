@@ -24,7 +24,7 @@ production stylesheet in assets/built/screen.css
 }
 
 .pagination a {
-    color: #3eb0ef;
+    color: #333333;
     transition: all 0.2s ease;
 }
 
@@ -148,4 +148,32 @@ td.code {
 
 .post-card-meta {
     display: none;
+}
+
+.bottom-wrapper {
+    position: relative;
+    z-index: 5;
+    margin: 4rem auto;
+}
+
+.bottom-wrapper::before {
+    content: "";
+    min-height: 500px;
+    position: absolute;
+    background: #f9f9fa;
+    width: 100%;
+    width: 100vw;
+    margin-left: -13vw;
+    vertical-align: center;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    top: -20px;
+}
+
+.alternate-bg {
+    background: f9f9fa;
+    background-color: f9f9fa;
 }

@@ -104,7 +104,8 @@ button, input, optgroup, select, textarea {
 
 button {
     overflow: visible;
-    border: none
+    border: 1px solid #ddd;
+    border-radius: 0px;
 }
 
 button, select {
@@ -168,6 +169,11 @@ table {
 td, th {
     padding: 0
 }
+
+
+
+
+
 
 html {
     overflow-y: scroll;
@@ -297,12 +303,14 @@ blockquote cite a {
 }
 
 a {
-    color: #26a8ed;
-    text-decoration: none
+    color: #e7040f;
+    text-decoration: none;
+    border-bottom: 1px dotted;
 }
 
 a:hover {
-    text-decoration: underline
+    opacity: 0.8;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -868,22 +876,28 @@ body {
 
 .post-full-header {
     margin: 0 auto;
-    padding: 6vw 3vw 3vw;
+    padding: 5vw 7vw 0;
     max-width: 1040px;
-    text-align: center
+    text-align: left
 }
 
+@media (max-width:999px) {
+    .post-full-header {
+        /* padding: 14vw 3vw 10vw; */
+        margin-top: 10rem;
+    }
+}
 @media (max-width:500px) {
     .post-full-header {
-        padding: 14vw 3vw 10vw
+        padding: 14vw 3vw 10vw;
     }
 }
 
 .post-full-meta {
     display: -ms-flexbox;
     display: flex;
-    -ms-flex-pack: center;
-    justify-content: center;
+    -ms-flex-pack: flex-start;
+    justify-content: flex-start;
     -ms-flex-align: center;
     align-items: center;
     color: #738a94;
@@ -893,7 +907,7 @@ body {
 }
 
 .post-full-meta-date {
-    color: #3eb0ef
+    color: #e7040f
 }
 
 .post-full-title {
@@ -1012,11 +1026,11 @@ body {
 
 .post-full-content a {
     color: #000;
-    box-shadow: inset 0 -1px 0 #3eb0ef
+    box-shadow: inset 0 -1px 0 #e7040f
 }
 
 .post-full-content a:hover {
-    color: #3eb0ef;
+    color: #e7040f;
     text-decoration: none
 }
 
@@ -1063,7 +1077,7 @@ body {
 .post-full-content blockquote {
     margin: 0 0 1.5em;
     padding: 0 1.5em;
-    border-left: 3px solid #3eb0ef
+    border-left: 3px solid #e7040f
 }
 
 .post-full-content blockquote p {
@@ -1191,7 +1205,7 @@ body {
     margin: .5em 0;
     padding: 1em 0 1.5em;
     border: 0;
-    color: #3eb0ef;
+    color: #e7040f;
     font-family: Cambria, 'Dejavu Serif', Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 3.2rem;
     line-height: 1.35em;
@@ -1237,7 +1251,7 @@ body {
 }
 
 .footnote-backref {
-    color: #3eb0ef!important;
+    color: #e7040f!important;
     font-size: 1.2rem;
     font-weight: 700;
     text-decoration: none!important;
@@ -1477,14 +1491,16 @@ body {
 }
 
 .author-card-button:hover {
-    border-color: #3eb0ef;
-    color: #3eb0ef;
+    border-color: #e7040f;
+    color: #e7040f;
     text-decoration: none
 }
 
 .post-full-comments {
-    margin: 0 auto;
-    max-width: 840px
+    /* margin: 3rem auto; */
+    max-width: 840px;
+    position: relative;
+    z-index: 10;
 }
 
 .read-next-feed {
@@ -1650,7 +1666,7 @@ body {
     align-items: center;
     height: 60px;
     border-bottom: 1px solid rgba(0, 0, 0, .06);
-    background: hsla(0, 0%, 100%, .95);
+    background: hsla(0, 0%, 100%, 1);
     transition: all .5s cubic-bezier(.19, 1, .22, 1);
     transform: translate3d(0, -120%, 0)
 }
@@ -1768,11 +1784,13 @@ body {
 }
 
 .floating-header-share-tw {
-    background: #33b1ff
+    background: #000100;
+    margin: 2px
 }
 
 .floating-header-share-fb {
-    background: #005e99
+    background: #000100;
+    /* margin: 2px */
 }
 
 .progress {
@@ -1781,9 +1799,9 @@ body {
     bottom: -1px;
     left: 0;
     width: 100%;
-    height: 2px;
+    height: 3px;
     border: none;
-    color: #3eb0ef;
+    color: #e7040f;
     background: transparent;
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -1795,11 +1813,11 @@ body {
 }
 
 .progress::-webkit-progress-value {
-    background-color: #3eb0ef
+    background-color: #e7040f
 }
 
 .progress::-moz-progress-bar {
-    background-color: #3eb0ef
+    background-color: #e7040f
 }
 
 .progress-container {
@@ -1808,7 +1826,7 @@ body {
     left: 0;
     display: block;
     width: 100%;
-    height: 2px;
+    height: 3px;
     background-color: transparent
 }
 
@@ -1816,7 +1834,7 @@ body {
     display: block;
     width: 50%;
     height: inherit;
-    background-color: #3eb0ef
+    background-color: #e7040f
 }
 
 @media (max-width:900px) {
@@ -1982,9 +2000,9 @@ body {
     justify-content: center;
     -ms-flex-align: center;
     align-items: center;
-    background: rgba(0, 0, 0, .97);
+    background: rgba(0, 0, 0, .98);
     opacity: 0;
-    transition: opacity .2s ease-in;
+    transition: opacity .2s ease-in-out;
     pointer-events: none;
     -webkit-backdrop-filter: blur(3px);
     backdrop-filter: blur(3px)
