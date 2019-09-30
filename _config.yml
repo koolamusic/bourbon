@@ -26,6 +26,9 @@ subscribers: True # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter: koolamusic # replace by your username
 facebook: koolamusic # replace by your username
+github: koolamusic
+instagram: koolamusic
+linkedin: salzzyandrewmiracle
 
 # Disqus
 disqus: True
