@@ -46,7 +46,7 @@
     font-style: normal;
 }
 
-@font-face {
+/* @font-face {
     font-family: 'Graphik Web';
     src: url('hinted-13fbccc9e60634fe75eddb02295c2127.eot');
     src: url('hinted-13fbccc9e60634fe75eddb02295c2127.eot?#iefix') format('embedded-opentype'),
@@ -56,7 +56,7 @@
         url('hinted-13fbccc9e60634fe75eddb02295c2127.svg#.') format('svg');
     font-weight: 500;
     font-style: normal;
-}
+} */
 
 @font-face {
     font-family: 'Euclid Circular A';

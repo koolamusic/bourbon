@@ -188,8 +188,8 @@ td.code {
 }
 
 .alternate-bg {
-    background: f9f9fa;
-    background-color: f9f9fa;
+    background: #f9f9fa;
+    background-color: #f9f9fa;
 }
 
 .ref-link {
@@ -219,4 +219,9 @@ td.code {
 .kg-card-markdown a:hover {
     background: #CF4A4A;
     color: black;
+}
+
+.home-intro {
+    text-align: left;
+    align-self: flex-start;
 }

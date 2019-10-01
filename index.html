@@ -10,19 +10,36 @@ navigation: True
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
-    <div class="inner">
+
+<!-- The big featured header, it uses blog cover image as a BG if available -->
+
+    <header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+            <div class="inner">
+                    {% include site-nav.html %}
         <div class="site-header-content">
-            <h1 class="site-title">
-                {% if site.logo %}
+            <!-- <h1 class="site-title home-intro"> -->
+                <!-- Hi, there! -->
+                <!-- {% if site.logo %}
                     <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}"/>
                 {% else %}
                     {{ site.title }}
-                {% endif %}
-            </h1>
-            <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
+                {% endif %} -->
+            <!-- </h1> -->
+            <!-- <h5 class="site-description-home">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h5> -->
+            <h5 class="site-description-home"> I am  a Product Designer and Business Strategist, My expertise is compassed from my long 
+                years of experience in software development, data analysis and technical team management for my consulting company 
+                TECMIE. </h5>
+                <h5 class="site-description-home"> 
+                These days, I live more freely, enjoy good music and contribute to 
+                growth of other software developers through platforms like codingcoach_ 
+                and other notable slack developer commnities, </h5>
+                <h5 class="site-description-home">
+                I founded TETA and current nate about data analytic 
+                and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, 
+                because I understand that is what drive enterprise organizations and keep them where they are. 
+                </h5>
         </div>
-        {% include site-nav.html %}
+        <!-- {% include site-nav.html %} -->
     </div>
 </header>
 
