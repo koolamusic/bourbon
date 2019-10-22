@@ -787,7 +787,7 @@ h5, h6 {
 }
 
 .post-card-tags {
-    display: block;
+    /* display: block; */
     margin-bottom: 4px;
     color: #738a94;
     font-size: 1.2rem;
