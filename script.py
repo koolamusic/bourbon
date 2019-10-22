@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+
 """
 Little script that replaces comment characters to html,
 found in the *.hbs files.

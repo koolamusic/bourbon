@@ -406,9 +406,9 @@ h5, h6 {
     -ms-flex-direction: column;
     flex-direction: column;
     min-height: 100vh;
-    border-style: solid;
-    border-color: #CF4A4A;
-    border-width: 0px 0 0 2px;
+    /* border-style: solid; */
+    /* border-color: #CF4A4A; */
+    /* border-width: 0px 0 0 2px; */
 
 }
 
@@ -739,8 +739,8 @@ h5, h6 {
 }
 
 .post-card {
-    -ms-flex: 1 1 300px;
-    flex: 1 1 300px;
+    -ms-flex: 1 1 250px;
+    flex: 1 1 250px;
     -ms-flex-direction: column;
     flex-direction: column;
     overflow: hidden;
