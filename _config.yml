@@ -74,10 +74,10 @@ feed:
 safe: False
 lsi: False
 username: koolamusic
-repo: jasper2
+repo: koolamusic.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
+# relative_source: ../jasper2/
+# destination: ../jasper2-pages/
 production_url:  https://koolamusic.github.io
 source_url:  https://github.com/koolamusic/koolamusic.github.io
 
