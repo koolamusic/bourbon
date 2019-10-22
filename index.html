@@ -26,18 +26,31 @@ into the {body} of the default.hbs template -->
                 {% endif %} -->
             <!-- </h1> -->
             <!-- <h5 class="site-description-home">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h5> -->
-            <h5 class="site-description-home"> I am  a Product Designer and Business Strategist, My expertise is compassed from my long 
-                years of experience in software development, data analysis and technical team management for my consulting company 
-                TECMIE. </h5>
-                <h5 class="site-description-home"> 
-                These days, I live more freely, enjoy good music and contribute to 
-                growth of other software developers through platforms like codingcoach_ 
-                and other notable slack developer commnities, </h5>
-                <h5 class="site-description-home">
-                I founded TETA and current nate about data analytic 
-                and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, 
-                because I understand that is what drive enterprise organizations and keep them where they are. 
+            <div class="site-home__content">
+                <h5 class="site-description-home"> I am  a Product Designer and Business Strategist, My expertise is compassed from my long 
+                    years of experience in software development, data analysis and technical team management for my consulting company 
+                    TECMIE. 
                 </h5>
+                <h5 class="site-description-home"> 
+                    These days, I live more freely, enjoy good music and contribute to 
+                    growth of other software developers through platforms like codingcoach_ 
+                    and other notable slack developer commnities
+                </h5>
+                <h5 class="site-description-home">
+                    I founded TETA and current nate about data analytic 
+                    and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, 
+                    because I understand that is what drive enterprise organizations and keep them where they are. 
+                </h5>
+                
+                <ul class="site-home__social">
+                    <a href="https://github.com/koolamusic">{% include github.html %}</a>
+                    <a href="https;://facebook.com/koolamusic">{% include facebook.html%}</a>
+                    <a href="https://twitter.com/koolamusic">{% include twitter.html %}</a>
+                    <a href="https://linkedin.com/in/salzzyandrewmiracle">{% include linkedin.html %}</a>
+                    <a href="https://instagram.com/koolamusic">{% include instagram.html %}</a>
+                    <a href="https://medium.com/@koolamusic">{% include medium.html %}</a>
+                </ul>
+            </div>
         </div>
         <!-- {% include site-nav.html %} -->
     </div>

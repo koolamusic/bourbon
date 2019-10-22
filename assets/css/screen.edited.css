@@ -227,13 +227,19 @@ td.code {
 }
 
 
-Home Intro section
+/* Home Intro section */
 .site-home__content h5{
-    position: absolute;
+    /* position: absolute; */
     z-index: 9999999;
 }
 
 .site-home__social {
-    position: absolute;
+    /* position: absolute; */
     z-index: 2342;
+    /* top: 0; */
+}
+
+.site-home__social a {
+    background: red;
+    padding: 20px;
 }
