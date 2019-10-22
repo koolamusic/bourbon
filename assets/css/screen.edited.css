@@ -1,6 +1,6 @@
 /* Table of Contents
 /* ------------------------------------------------------------
-
+-
 This is a development CSS file which is built to a minified
 production stylesheet in assets/built/screen.css
 
@@ -224,4 +224,16 @@ td.code {
 .home-intro {
     text-align: left;
     align-self: flex-start;
+}
+
+
+Home Intro section
+.site-home__content h5{
+    position: absolute;
+    z-index: 9999999;
+}
+
+.site-home__social {
+    position: absolute;
+    z-index: 2342;
 }
