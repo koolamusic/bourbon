@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Fetish things our Forefathers Did
-category: thinking
+title: Traditions and Cultures we learnt from our Forefathers
+tag: thinking
+excerpt: While growing up in the village, I observed that when elders gather, they always “litter” a portion of wine on the ground
 img: palmwine.jpg
 alt: Palmwine Fetish
 description: I observed that when elders gather, they always “litter” a portion of wine on the ground, making some incantations
