@@ -272,10 +272,10 @@ td.code {
 
 /* Site Home Navigation section  */
 
-.site-home-navigation {
+.site-home-navigation:nth-child(1) {
     padding-top: 12px;
-    position: fixed;
-    top: 0;
+    padding-bottom: 40px;
+    border-bottom: 1px solid; /*Experimental */
 }
 
 .site-home-navigation a {

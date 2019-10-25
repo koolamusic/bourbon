@@ -1,10 +1,16 @@
 ---
-title: "Lessons learned from developing for a startup"
+layout: post
+current: post
+navigation: False
+tags: web
+author: andrew
+class: post-template
+# subsclass: 'post tag-web'
+# cover: 
+
+title: "Lessons learned from building for startups"
 category: web
-description: "Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch."
-img: atom.png
-// article: true
-// alt: An old image of a ship launch
+excerpt: "Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch."
 ---
 
 Although we'd like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines -- and budgets. We product owners need to think about how we manage this.
@@ -19,6 +25,6 @@ We unearthed user problems during the launch I would have liked to have fixed mo
 
 The lesson learned is therefore quite simple:
 
-<p class="f4 f3-l b sans-serif pl2 ml2 ml4-l pl4-l bl bw2 b--dark-pink">If you have an official launch date, make sure there is some project budget remaining for further changes after this date.</p>
+<blockquote>If you have an official launch date, make sure there is some project budget remaining for further changes after this date.</blockquote>
 
 Note: It's important this money is kept aside for the project. There's little value in coming in under budget (besides some temporary good PR that'll come back to bite you later in your career) if your product isn't perfect -- and it'll never be perfect.
