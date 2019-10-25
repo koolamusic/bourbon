@@ -8,43 +8,38 @@ navigation: True
 <!-- < default -->
 <!-- The tag above means: insert everything in this file into the {body} of the default.hbs template -->
 <!-- The big featured header, it uses blog cover image as a BG if available -->
+<!-- <header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}"> -->
 
-    <!-- <header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}"> -->
+<header>
+    <div class="inner">
+                    {% include site-nav.html %}
         <div>
-            <div class="inner">
-                    <!-- {% include site-nav.html %} -->
-                    <div>
-        <!-- <div class="site-header-content"> -->
-            <!-- <h1 class="site-title home-intro"> -->
-                <!-- Hi, there! -->
-                <!-- {% if site.logo %}
-                    <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}"/>
-                {% else %}
-                    {{ site.title }}
-                {% endif %} -->
-            <!-- </h1> -->
-            <!-- <h5 class="site-description-home">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h5> -->
             <div class="site-home__content">
                 <h1>I'm Andrew</h1>
                 <h5 class="site-description-home"> I am  a product designer and entrepreneur.
                     <br>My expertise is compassed from my years of experience in software development, analytics and technical team management for my consulting company 
                     <a target="_blank" href="https://tecmie.com">tecmie</a>. I manage a <a target="_blank" href="https://github.com/wecodeafrica">community</a> of open source developers committed towards creating solution to enable civic and social accountability in africa. I founded <a href="https://teta.africa" target="_blank">teta.africa</a>,
                     a project focused coding bootcamp, I also mentor aspiring software developers for free on <a target="_blank" href="https://mentors.codingcoach.io/?name=Andrew+Miracle">codingcoach</a> and love every moment of sharing.
-                    <br>
+                </h5>
+                <h5 class="site-description-home" style="padding-top: 1px">
                     I have interests in big data, business Intelligences, the future of work, workplace ethics and company culture. read more about me here.
                 </h5>
                 
-                <ul>
-                    <a href="https://github.com/koolamusic">{% include github.html %}</a>
-                    <a href="https;://facebook.com/koolamusic">{% include facebook.html%}</a>
-                    <a href="https://twitter.com/koolamusic">{% include twitter.html %}</a>
-                    <a href="https://linkedin.com/in/salzzyandrewmiracle">{% include linkedin.html %}</a>
-                    <a href="https://instagram.com/koolamusic">{% include instagram.html %}</a>
-                    <a href="https://medium.com/@koolamusic">{% include medium.html %}</a>
-                </ul>
+                <div class="site-home__social">
+                    <ul>
+                        <li><a class="intro-social-link" href="https://github.com/koolamusic">{% include github.html %}</a></li>
+                        <li><a class="intro-social-link isl-size" href="https://facebook.com/koolamusic">{% include facebook.html%}</a></li>
+                        <li><a class="intro-social-link isl-size" href="https://twitter.com/koolamusic">{% include twitter.html %}</a></li>
+                        <li><a class="intro-social-link" href="https://linkedin.com/in/salzzyandrewmiracle">{% include linkedin.html %}</a></li>
+                        <li><a class="intro-social-link" href="https://instagram.com/koolamusic">{% include instagram.html %}</a></li>
+                        <li><a class="intro-social-link" href="https://medium.com/@koolamusic">{% include medium.html %}</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="site-home-navigation">
+                <!-- {% include site-nav.html %} -->
             </div>
         </div>
-        {% include site-nav.html %}
     </div>
 </header>
 

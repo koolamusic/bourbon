@@ -228,13 +228,56 @@ td.code {
 }
 
 
-/* Home Intro section */
-.site-home__content h5{
-    /* position: absolute; */
-    z-index: 9999999;
+/* ============== Home Intro section ===========*/
+.site-home__content{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    margin-top: 8rem;
+    min-height: 430px;
 }
 
+.site-home__content h1{
+    font-size: 6rem;
+}
+
+.site-home__content .site-description-home {
+    max-width: 80%;
+}
+
+/* Social links on homepage  */
+.site-home__content ul, .site-home__content li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+.intro-social-link svg {
+    height: 2rem;
+}
+.site-home__social {
+    margin-top: 3rem;
+}
+.site-home__social li {
+    margin-right: 10px;
+}
 .site-home__social a {
-    background: red;
-    padding: 20px;
+    padding: 15px 10px;
+    background: #010203;
+    border-radius: 1px;
+}
+
+.isl-size svg{
+    padding-left: 5px;
+}
+
+/* Site Home Navigation section  */
+
+.site-home-navigation {
+    padding-top: 12px;
+    position: fixed;
+    top: 0;
+}
+
+.site-home-navigation a {
+    color: black!important;
 }
