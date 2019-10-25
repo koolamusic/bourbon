@@ -8,6 +8,7 @@ words_per_minute: 200
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
+
 # Website info
 title: Andrew Miracle
 description: I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are. 
@@ -76,8 +77,8 @@ lsi: False
 username: koolamusic
 repo: koolamusic.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
+# relative_source: ../jasper2/
+# destination: ../jasper2-pages/
 production_url:  https://koolamusic.github.io
 source_url:  https://github.com/koolamusic/koolamusic.github.io
 

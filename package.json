@@ -16,6 +16,9 @@
         "email": "hello@ghost.org",
         "url": "https://ghost.org"
     },
+    "scripts": {
+        "purify:css": "purifycss assets/built/screen.css assets/built/screen.edited.css assets/built/global.css 404.html index.html _includes/analytics.html _includes/author_pagination.html _includes/close.html _includes/dynamic_tag_info.html _includes/dynamic_title.html _includes/facebook.html _includes/floating-header.html _includes/footer.html _includes/ghost-logo.html _includes/github.html _includes/head.html _includes/infinity.html _includes/instagram.html _includes/linkedin.html _includes/location.html _includes/medium.html _includes/menu.html _includes/navigation.html _includes/page-scripts.html _includes/point.html _includes/post-card-error.html _includes/post-card.html _includes/post-card-next.html _includes/post-card-previous.html _includes/post_pagination.html _includes/post-scripts.html _includes/rss.html _includes/site-nav.html _includes/subscribe-form.html _includes/tag_pagination.html _includes/twitter.html _includes/website.html  --min --info --out  assets/built/bundled.css"
+    },
     "gpm": {
         "type": "theme",
         "categories": [
