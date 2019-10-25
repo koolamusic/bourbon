@@ -275,9 +275,9 @@ td.code {
 .site-home-navigation:nth-child(1) {
     padding-top: 12px;
     padding-bottom: 40px;
-    border-bottom: 1px solid; /*Experimental */
+    border-bottom: 1px solid #010203; /*Experimental */
 }
 
 .site-home-navigation a {
-    color: black!important;
+    color: #010203!important;
 }
