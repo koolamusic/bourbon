@@ -2,8 +2,10 @@
 layout: page
 current: about
 title: About
+header: light
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/headshot.jpg'
+# cover: 'assets/images/headshot.jpg'
 class: page-template
 subclass: 'post page'
 order: 2

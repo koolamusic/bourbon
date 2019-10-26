@@ -16,10 +16,13 @@
             </div>
         </footer> -->
 
-
-<section >
+{% if page.current == 'tag' %}
+        <div></div>
+{% else %}
+    <section >
         <img src="{{ site.url }}{{ site.baseurl }}assets/images/urbit.png" />
     </section>
+{% endif %}
     
 
         <footer>
