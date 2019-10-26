@@ -275,8 +275,10 @@ td.code {
 
 .site-home-navigation:nth-child(1) {
     padding-top: 12px;
-    padding-bottom: 40px;
-    border-bottom: 1px solid #dddddd; /*Experimental */
+    padding-bottom: 12px;
+    /* margin-bottom: 0; */
+    /* border-bottom: 1px solid #dddddd; Experimental */
+    /* min-height: 61px; */
 }
 
 .site-home-navigation a {

@@ -17,7 +17,7 @@ hyphens: true
 <!-- <header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}"> -->
 
 <header>
-    <div class="outer">
+    <div class="site-header outer header-light">
         {% include site-nav.html %}
     </div>
     <div class="inner">

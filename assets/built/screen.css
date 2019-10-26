@@ -912,14 +912,14 @@ h5, h6 {
 
 .post-full-header {
     margin: 0 auto;
-    padding: 5vw 7vw 0;
+    padding: 5vw 99px 0;
     max-width: 1040px;
     text-align: left
 }
 
 @media (max-width:999px) {
     .post-full-header {
-        /* padding: 14vw 3vw 10vw; */
+        padding: 4vw 60px 0;
         margin-top: 10rem;
     }
 }

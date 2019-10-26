@@ -1,6 +1,8 @@
 ---
 title: Boiled Plaintain
 layout: post
+current: post-template
+navigation: True
 tags: [thinking, journal]
 class: post-template
 subclass: 'post tag-journal'

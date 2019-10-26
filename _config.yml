@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: '/'
 
 
 # Website info
@@ -14,8 +14,8 @@ title: Andrew Miracle
 description: I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are. 
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
-logo_black: assets/images/blog-icond.png
-logo_dark: assets/images/favicon.png
+logo_black: assets/images/am.png
+logo_dark: assets/images/icon.png
 favicon: assets/images/favicon.png
 ref: assets/images/ref.png # fallback image for post content when there is no post cover
 production_url: https://koolamusic.github.io
