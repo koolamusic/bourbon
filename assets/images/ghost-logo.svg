@@ -42,12 +42,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="713"
      id="namedview22"
      showgrid="false"
      inkscape:zoom="0.3346856"
-     inkscape:cx="776.49117"
-     inkscape:cy="-170.39658"
+     inkscape:cx="226.72148"
+     inkscape:cy="-186.82991"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -91,16 +91,80 @@
        inkscape:export-ydpi="100.11429" />
     <text
        id="text38"
-       y="665.1701"
-       x="497.64267"
+       y="641.72192"
+       x="525.80444"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:265.31558228px;line-height:1.25;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.98986685"
        xml:space="preserve"
        inkscape:export-xdpi="100.11429"
        inkscape:export-ydpi="100.11429"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.98986685"
-         y="665.1701"
-         x="497.64267"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:213.33332825px;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.98986685"
+         y="641.72192"
+         x="525.80444"
          sodipodi:role="line"
-         id="tspan849">a</tspan></text>
+         id="tspan849">A</tspan></text>
+    <g
+       id="g3730"
+       transform="matrix(0.56973819,0,0,0.56973819,156.66282,87.302122)"
+       inkscape:export-xdpi="79.860001"
+       inkscape:export-ydpi="79.860001"
+       style="fill:#000000">
+      <text
+         id="text3720"
+         y="159.40637"
+         x="-63.139168"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.23100281px;line-height:1.25;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.37423253"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web Light';fill:#000000;stroke-width:1.37423253"
+           y="159.40637"
+           x="-63.139168"
+           id="tspan3718"
+           sodipodi:role="line">miracle</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.23100281px;line-height:1.25;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.37423253"
+         x="-733.71185"
+         y="159.40637"
+         id="text3724"><tspan
+           sodipodi:role="line"
+           id="tspan3722"
+           x="-733.71185"
+           y="159.40637"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web Semi-Bold';fill:#000000;stroke-width:1.37423253">andrew</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="100.11429"
+       inkscape:export-xdpi="100.11429"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:265.31558228px;line-height:1.25;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.98986685;"
+       x="-194.19556"
+       y="641.72192"
+       id="text3736"><tspan
+         id="tspan3734"
+         sodipodi:role="line"
+         x="-194.19556"
+         y="641.72192"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:213.33332825px;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:1.98986685;">AM</tspan></text>
+    <rect
+       inkscape:export-ydpi="100.11429"
+       inkscape:export-xdpi="100.11429"
+       y="437.96222"
+       x="-605.22064"
+       height="278.88904"
+       width="278.88904"
+       id="rect3738"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.11095607;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="100.11429"
+       inkscape:export-xdpi="100.11429"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:265.31558228px;line-height:1.25;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.98986685"
+       x="-551.02527"
+       y="615.5401"
+       id="text3742"><tspan
+         id="tspan3740"
+         sodipodi:role="line"
+         x="-551.02527"
+         y="615.5401"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:106.66666412px;font-family:'Graphik Web';-inkscape-font-specification:'Graphik Web Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.98986685">AM</tspan></text>
   </g>
 </svg>

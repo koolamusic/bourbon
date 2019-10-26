@@ -276,11 +276,29 @@ td.code {
 .site-home-navigation:nth-child(1) {
     padding-top: 12px;
     padding-bottom: 40px;
-    border-bottom: 1px solid #010203; /*Experimental */
+    border-bottom: 1px solid #dddddd; /*Experimental */
 }
 
 .site-home-navigation a {
     color: #010203!important;
+}
+.site-home-navigation svg {
+    fill: #010203;
+}
+
+.site-nav-light, .site-nav-light .nav li a {
+    color: #010203;
+}
+.site-nav-light svg {
+    fill: #010203;
+}
+
+/* dark theme versus light header theme */
+.header-light {
+    background: #ffffff;
+    border-bottom: 1px solid #ebebeb;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /* .pre-footer-bg {
