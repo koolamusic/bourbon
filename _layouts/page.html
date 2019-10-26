@@ -9,12 +9,20 @@ disqus: false
 <!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template -->
 
-<!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer">
-    <div class="inner">
-        {% include site-nav.html %}
-    </div>
-</header>
+<!-- Conditionally render the Navigation Bar Theme based on Defined Preference-->
+{% if page.header == 'dark' %}
+    <header class="site-header outer header-dark">
+        <div class="no-inner">
+            {% include site-nav-dark.html %}
+        </div>
+    </header>
+{% else %}
+    <header class="site-header outer header-light">
+        <div class="no-inner">
+            {% include site-nav.html %}
+        </div>
+    </header>
+{% endif %}
 
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
