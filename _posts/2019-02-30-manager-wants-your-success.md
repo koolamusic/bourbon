@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Your Manager wants you to succeed
-category: thinking
+tag: thinking
+excerpt: We are wired to work, it's our nature, to glorify God as we cultivate blessing from the created order and contribute value to others through the labor of our minds, hearts, and hands.
 img: andrew.jpg
 alt: Managers want the team to succeed
 ---

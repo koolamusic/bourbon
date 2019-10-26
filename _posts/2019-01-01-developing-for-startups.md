@@ -5,12 +5,10 @@ navigation: False
 tags: web
 author: andrew
 class: post-template
-# subsclass: 'post tag-web'
+title: Lessons learned from building for startups
+excerpt: Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch.
+subsclass: 'post tag-web'
 # cover: 
-
-title: "Lessons learned from building for startups"
-category: web
-excerpt: "Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch."
 ---
 
 Although we'd like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines -- and budgets. We product owners need to think about how we manage this.

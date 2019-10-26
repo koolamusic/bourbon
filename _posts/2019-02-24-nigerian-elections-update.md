@@ -1,10 +1,11 @@
 ---
 layout: post
+current: post
+class: post-template
 title: Nigeria Decides 2019
-category: election
+tag: open-source
 img: nigeria.jpg
 alt: Nigeria Decides
-description: Nigeria Decides for a new Government
 ---
 
 
