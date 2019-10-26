@@ -10,24 +10,34 @@ disqus: true
 <!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template -->
 
-<header class="site-header outer">
-    <div class="inner">
-        {% include site-nav.html %}
-    </div>
-</header>
+<!-- Conditionally render the Navigation Bar Theme based on Defined Preference in Posts-->
+{% if page.header == 'dark' %}
+    <header class="site-header outer header-dark">
+        <div class="no-inner">
+            {% include site-nav-dark.html %}
+        </div>
+    </header>
+{% else %}
+    <header class="site-header outer header-light">
+        <div class="no-inner">
+            {% include site-nav.html %}
+        </div>
+    </header>
+{% endif %}
+
 
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
 
 <main id="site-main" class="site-main outer" role="main">
+
+    {% if page.cover %}
+    <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
+    </figure>
+    {% endif %}
+
     <div class="inner">
-
         <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
-
-        {% if page.cover %}
-        <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
-        </figure>
-        {% endif %}
 
             <header class="post-full-header">
                 <h1 class="post-full-title">{{ page.title }}</h1>
@@ -56,13 +66,20 @@ into the {body} of the default.hbs template -->
                  <div class="addthis_inline_share_toolbox"></div> 
             </section>
 
+        </article>
+
+    </div>
+</main>
+
             <!-- Email subscribe form at the bottom of the page -->
             {% if site.subscribers == False %}
+            <div class="inner">
                 <section class="subscribe-form">
                     <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
                     <p>Get the latest posts delivered right to your inbox</p>
                     {% include subscribe-form.html placeholder="youremail@example.com" %}
                 </section>
+            </div>
             {% endif %}
 
             <!-- Everything inside the #author tags pulls data from the author -->
@@ -96,6 +113,7 @@ into the {body} of the default.hbs template -->
             should be replaced with your own Disqus site-id. -->
             {% if site.disqus or page.disqus %}
             <div class="bottom-wrapper">
+            <div class="inner">
                 <section class="post-full-comments">
                     <div id="disqus_thread"></div>
                     <script>
@@ -112,12 +130,10 @@ into the {body} of the default.hbs template -->
                     </script>
                 </section>
             </div>
+            </div>
             {% endif %}
 
-        </article>
-
-    </div>
-</main>
+ 
 
 <!-- Links to Previous/Next posts -->
 <aside class="read-next outer alter">

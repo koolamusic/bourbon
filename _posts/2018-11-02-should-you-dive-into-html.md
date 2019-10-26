@@ -1,8 +1,16 @@
 ---
-title: "Dive into HTML as soon as possible"
-category: web
-article: true
+layout: post # jekyll required
+current: post # required for conditional javascript
+class: post-template # define custom post template
+navigation: True
+title: "Should you dive into HTML or else" # title
+# cover: assets/images/
+tags: journal
+subclass: 'post tag-journal' # subscription forms
+logo: assets/images/ghost.png # required for og:image meta
+author: andrew
 ---
+
 
 I was chatting with someone recently who's building their first website for a paying client. He's doing extremely well, grappling with setting up hosting, domain names, CMS templates, Twig _and_ HTML and CSS. That's a lot to simply learn. Producing something that's someone's willing to pay for while you learn is doubly difficult.
 

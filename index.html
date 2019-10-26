@@ -11,8 +11,10 @@ navigation: True
 <!-- <header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}"> -->
 
 <header>
+    <div class="outer">
+        {% include site-nav.html %}
+    </div>
     <div class="inner">
-                    {% include site-nav.html %}
         <div>
             <div class="site-home__content">
                 <h1>I'm Andrew</h1>
@@ -27,12 +29,12 @@ navigation: True
                 
                 <div class="site-home__social">
                     <ul>
-                        <li><a class="intro-social-link" href="https://github.com/koolamusic">{% include github.html %}</a></li>
-                        <li><a class="intro-social-link isl-size" href="https://facebook.com/koolamusic">{% include facebook.html%}</a></li>
-                        <li><a class="intro-social-link isl-size" href="https://twitter.com/koolamusic">{% include twitter.html %}</a></li>
-                        <li><a class="intro-social-link" href="https://linkedin.com/in/salzzyandrewmiracle">{% include linkedin.html %}</a></li>
-                        <li><a class="intro-social-link" href="https://instagram.com/koolamusic">{% include instagram.html %}</a></li>
-                        <li><a class="intro-social-link" href="https://medium.com/@koolamusic">{% include medium.html %}</a></li>
+                        <li><a target="_blank" class="intro-social-link" href="https://github.com/{{ site.github }}">{% include github.html %}</a></li>
+                        <li><a target="_blank" class="intro-social-link isl-size" href="https://facebook.com/{{ site.facebook }}">{% include facebook.html%}</a></li>
+                        <li><a target="_blank" class="intro-social-link isl-size" href="https://twitter.com/{{ site.twitter }}">{% include twitter.html %}</a></li>
+                        <li><a target="_blank" class="intro-social-link" href="https://linkedin.com/in/{{ site.linkedin }}">{% include linkedin.html %}</a></li>
+                        <li><a target="_blank" class="intro-social-link" href="https://instagram.com/{{ site.instagram }}">{% include instagram.html %}</a></li>
+                        <li><a target="_blank" class="intro-social-link" href="https://medium.com/@{{ site.medium }}">{% include medium.html %}</a></li>
                     </ul>
                 </div>
             </div>
@@ -57,3 +59,8 @@ navigation: True
 
     </div>
 </main>
+
+<!-- 
+<section >
+    <img src="assets/images/urbit.png" />
+</section> -->

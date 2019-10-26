@@ -6,6 +6,11 @@
             <a class="post-card-image-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
                 <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ post.cover }})"></div>
             </a>
+        {% else %}
+        <!-- create fallback post cover image to be used in post cards -->
+        <a class="post-card-image-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+            <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ site.ref }})"></div>
+        </a>
         {% endif %}
         <div class="post-card-content">
             <a class="post-card-content-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">

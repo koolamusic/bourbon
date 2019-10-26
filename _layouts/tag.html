@@ -2,9 +2,10 @@
 layout: default
 current: tag
 title: Tag Page
-cover: false
+cover: assets/images/tag.jpg
 class: 'tag-template'
 navigation: True
+header: light
 logo: 'assets/images/ghost.png'
 ---
 
@@ -14,16 +15,21 @@ logo: 'assets/images/ghost.png'
 <!-- The big featured header, it uses blog cover image as a BG if available -->
 <!-- #tag -->
 {% include dynamic_tag_info.html %}
+<header class="site-header outer header-light ">
+    <div class="no-inner">
+        {% include site-nav.html %}
+    </div>
+</header> 
+
 <header class="site-header outer {% if cover or page.cover %}" style="background-image: url({{ site.baseurl }}{% if cover %}{{ cover }}{% else %}{{ page.cover }}{% endif%}) {% else %}no-cover{% endif %}">
     <div class="inner">
-        {% include site-nav.html %}
-        <div class="site-header-content">
+        <div class="site-header-content site-tag__section">
             <h1 class="site-title">{{ page.tag | capitalizeall }}</h1>
             <h2 class="site-description">
                 {% if tag_description %}
                     {{ tag_description }}
                 {% elsif page.tag %}
-    			    A collection of {{ paginator.total_posts }} posts
+    			    A total of {{ paginator.total_posts }} articles has been tagged as <strong> {{ page.tag }} </strong>
                 {% endif %}
             </h2>
         </div>

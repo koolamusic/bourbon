@@ -1,8 +1,8 @@
 <nav {% if page.current == 'home' %} class="site-nav site-home-navigation" {% else %} class="site-nav" {% endif %}>
-    <div class="site-nav-left site-nav-light">
+    <div class="site-nav-left">
         {% if page.current != 'home' %}
             {% if site.logo %}
-                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{{ site.logo_black }}" alt="{{ site.title }}" /></a>
+                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{{ site.logo }}" alt="{{ site.title }}" /></a>
             {% else %}
                 <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             {% endif %}
@@ -11,7 +11,7 @@
             {% include navigation.html %}
         {% endif %}
     </div>
-    <div class="site-nav-right site-nav-light">
+    <div class="site-nav-right">
         <div class="social-links">
             {% if site.faceboo %}
                 <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>

@@ -12,9 +12,9 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/built/screen.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/built/screen.edited.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/built/syntax.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}assets/built/screen.edited.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}assets/built/syntax.css" />
     <!-- highlight.js -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
@@ -69,7 +69,7 @@
                 <!-- Add div class inner to manage and sync width within menu section with overall site -->
                 <div class="inner">
                     {% if site.logo %}
-                    <img class="subscribe-overlay-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" />
+                    <img class="subscribe-overlay-logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" />
                     {% endif %}
                     <h1 class="subscribe-overlay-title">Subscribe to {{ site.title }}</h1>
                     <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
@@ -94,7 +94,7 @@
         integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
         crossorigin="anonymous">
     </script>
-    <script type="text/javascript" src="{{ site.baseurl }}assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}assets/js/jquery.fitvids.js"></script>
 
     <!-- Paginator increased to "infinit" in _config.yml -->
     <!-- if paginator.posts  -->
@@ -108,7 +108,7 @@
     <script>
         var maxPages = parseInt('{{ paginator.total_pages }}');
     </script>
-    <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script>
+    <script src="{{ site.url }}{{ site.baseurl }}assets/js/infinitescroll.js"></script>
     {% endif %}
 
 
