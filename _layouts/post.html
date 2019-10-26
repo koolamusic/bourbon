@@ -56,13 +56,20 @@ into the {body} of the default.hbs template -->
                  <div class="addthis_inline_share_toolbox"></div> 
             </section>
 
+        </article>
+
+    </div>
+</main>
+
             <!-- Email subscribe form at the bottom of the page -->
             {% if site.subscribers == False %}
+            <div class="inner">
                 <section class="subscribe-form">
                     <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
                     <p>Get the latest posts delivered right to your inbox</p>
                     {% include subscribe-form.html placeholder="youremail@example.com" %}
                 </section>
+            </div>
             {% endif %}
 
             <!-- Everything inside the #author tags pulls data from the author -->
@@ -96,6 +103,7 @@ into the {body} of the default.hbs template -->
             should be replaced with your own Disqus site-id. -->
             {% if site.disqus or page.disqus %}
             <div class="bottom-wrapper">
+            <div class="inner">
                 <section class="post-full-comments">
                     <div id="disqus_thread"></div>
                     <script>
@@ -112,12 +120,10 @@ into the {body} of the default.hbs template -->
                     </script>
                 </section>
             </div>
+            </div>
             {% endif %}
 
-        </article>
-
-    </div>
-</main>
+ 
 
 <!-- Links to Previous/Next posts -->
 <aside class="read-next outer alter">

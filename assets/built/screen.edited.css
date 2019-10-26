@@ -152,26 +152,27 @@ td.code {
 
 .bottom-wrapper {
     position: relative;
-    z-index: 5;
-    margin: 6rem auto;
-}
-
-.bottom-wrapper::before {
-    content: "";
-    min-height: 500px;
-    position: absolute;
     background: #f9f9fa;
+    min-height: 500px;
     width: 100%;
-    width: 100vw;
-    margin-left: -12vw;
-    /* margin-right: -5vw; */
     vertical-align: center;
     display: flex;
     align-content: center;
     align-items: center;
     justify-content: center;
-    z-index: 1;
-    top: -20px;
+}
+
+.bottom-wrapper::before {
+    /* content: ""; */
+    /* min-height: 500px; */
+    /* position: absolute; */
+    background: #f9f9fa;
+    /* width: 100vw; */
+    /* margin-left: -12vw; */
+    /* margin-right: -10vw; */
+    /* margin-right: -5vw; */
+    /* z-index: 1; */
+    /* top: -20px; */
 }
 
 @media (max-width:768px) {
