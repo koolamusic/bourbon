@@ -25,11 +25,11 @@ It's a good idea to keep this template as minimal as possible in terms of both f
 <body class="error-template">
     <div class="site-wrapper">
 
-        <header class="site-header outer {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }})){% else %}no-cover{% endif %}">
+        <header class="site-header header-light outer {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }})){% else %}no-cover{% endif %}">
             <div class="inner">
                 <nav class="site-nav-center">
                     {% if site.logo %}
-                        <a class="site-nav-logo" href="{{ site.baseurl }}"><img src="{{site.baseurl}}{{ site.logo }}" alt="{{ site.title }}" /></a>
+                        <a class="site-nav-logo" href="{{ site.baseurl }}"><img src="{{site.baseurl}}{{ site.logo_black }}" alt="{{ site.title }}" /></a>
                     {% else %}
                         <a class="site-nav-logo" href="{{ site.baseurl }}">{{ site.title }}</a>
                     {% endif %}

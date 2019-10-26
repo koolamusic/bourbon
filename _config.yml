@@ -17,9 +17,11 @@ logo: assets/images/blog-icon.png
 logo_black: assets/images/blog-icond.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
+ref: assets/images/ref.png # fallback image for post content when there is no post cover
 production_url: https://koolamusic.github.io
 source_url: https://localhost:4000
 CNAME: #add cname for website to be created
+
 
 # Social info
 navigation: True # show the navbar links
