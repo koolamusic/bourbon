@@ -25,10 +25,11 @@
 {% endif %}
     
 
-        <footer>
-            <section>
-                <h2>You can stop scrolling now</h2>
-                <div class="site-home__social">
+        <footer class="footer__layout">
+            <div class="outer footer-display-flex" >
+                <section class="footer__layout-block">
+                    <h2>You can stop scrolling now</h2>
+                    <div class="site-home__social">
                         <ul>
                             <li><a class="intro-social-link" href="https://github.com/koolamusic">{% include github.html %}</a></li>
                             <li><a class="intro-social-link isl-size" href="https://facebook.com/koolamusic">{% include facebook.html%}</a></li>
@@ -38,30 +39,38 @@
                             <li><a class="intro-social-link" href="https://medium.com/@koolamusic">{% include medium.html %}</a></li>
                         </ul>
                     </div>
-            </section>
+                </section>
+                
+                <section class="footer__layout-block">
+                    <div class="footer__block-links">
+                        
+                        <nav class="footer__block-nav" role="menu">
+                            <li class="nav-home" role="menuitem"><a href="{{site.baseurl}}">Home</a></li>
+                            <li class="nav-about" role="menuitem"><a href="{{site.baseurl}}about/">About</a></li>
+                            <li class="nav-about" role="menuitem"><a href="{{site.baseurl}}brands/">Brands</a></li>
+                            <li class="nav-getting-started" role="menuitem"><a href="mailto:me@andrewmiracle.com">Contact</a></li>
+                        </nav>
+                        <nav class="footer__block-nav" role="menu">
+                            <li><a href="{{ site.baseurl }}tag/talks">Talks</a></li>
+                            <li><a href="{{ site.baseurl }}tag/code">Programming</a></li>
+                            <li><a href="{{ site.baseurl }}tag/javascript">Javascript</a></li>
+                            <li><a href="{{ site.baseurl }}tag/javascript">Leadership</a></li>
+                            <li><a href="{{ site.baseurl }}tag/journal">Journal</a></li>
+                        </nav>
 
-            <section>
-                <div>
-                        <nav class="">
-                                <a href="{{ site.baseurl }}">Latest Posts</a>
-                                {% if site.facebook %}<a href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">Facebook</a>{% endif %}
-                                {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">Twitter</a>{% endif %}
-                                {% if site.github %}<a href="https://github.com/{{ site.github }}" target="_blank" rel="noopener">Github</a>{% endif %}
-                                {% if site.linkedin %}<a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
-                                {% if site.instagram %}<a href="https://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">Instagram</a>{% endif %}
-                            </nav>
-                </div>
-                <div>
-                    <h5>Currently doing: EIT @MESTAfrica</h5>
-                    <h5>Currently reading: Rules of Management</h5>
-                </div>
-
-            </section>
-            <div class="site-footer-content inner">
-                    <section class="copyright"><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a> &copy; {{  site.time | date: '%Y' }}</section>
-                    <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
-                        <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
-                        <a href="https://jekyll" target="_blank" rel="noopener">Jekyll</a></section>
-                   
-                </div>
+                    </div>
+                        
+                        <div class="footer__block-bottom">
+                            <h5 class="f_block__text">Currently doing: <a href="#">EIT @MESTAfrica</a></h5>
+                            <h5 class="f_block__text">Currently reading: <a href="#">Rules of Management</a></h5>
+                        </div> 
+                </section>
+            </div><!-- End the Links block section -->
+                  
+            <!-- Start the Bottom Footer copyright section  -->
+                <section class="site-footer-content outer">
+                    <div class="copyright"><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a> &copy; {{  site.time | date: '%Y' }}</div>
+                    <div class="poweredby">Site built with <a href="https://jekyllrb.com/">Jekyll</a></div>   
+                </section>
+                
         </footer>

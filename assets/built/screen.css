@@ -2197,16 +2197,20 @@ h5, h6 {
     -ms-flex-pack: justify;
     justify-content: space-between;
     -ms-flex-align: center;
-    align-items: center;
-    font-size: 1.3rem
+    align-items: flex-start;
+    font-size: 1.3rem;
+    color: #010203;
+    width: 100%;
+    margin-top: 7rem;
+    margin-bottom: 1.5rem;
 }
 
 .site-footer-content, .site-footer-content a {
-    color: hsla(0, 0%, 100%, .7)
+    color: #010203;
 }
 
 .site-footer-content a:hover {
-    color: #fff;
+    color: hsla(0, 0%, 100%, .7);
     text-decoration: none
 }
 
