@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/'
+baseurl: /
 
 
 # Website info
@@ -84,9 +84,9 @@ lsi: False
 username: koolamusic
 repo: koolamusic.github.io
 branch: master
-# relative_source: ../jasper2/
-# destination: ../jasper2-pages/
-production_url:  https://koolamusic.github.io
+relative_source: ../jasper2/
+destination: ../jasper2-pages/
+production_url:  https://andrewmiracle.com
 source_url:  https://github.com/koolamusic/koolamusic.github.io
 
 exclude:
