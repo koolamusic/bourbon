@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/open-source/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2019-10-29T23:02:42+00:00</updated>
+  <id>/tag/open-source/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Andrew Miracle | </title>
+  
+
+  
+    <subtitle>I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Nigeria Decides 2019</title>
+      <link href="/posts/nigerian-elections-update" rel="alternate" type="text/html" title="Nigeria Decides 2019" />
+      <published>2019-02-24T00:00:00+00:00</published>
+      <updated>2019-02-24T00:00:00+00:00</updated>
+      <id>/posts/nigerian-elections-update</id>
+      <content type="html" xml:base="/posts/nigerian-elections-update">&lt;p&gt;On the 23rd of February Nigerians will decide a &lt;a href=&quot;https://en.wikipedia.org/wiki/2019_Nigerian_general_election&quot;&gt;New President&lt;/a&gt;. Who we expect will lead us to the promise land&lt;/p&gt;
+
+&lt;div style=&quot;width:100%;height:0;padding-bottom:100%;position:relative;&quot;&gt;&lt;iframe src=&quot;https://giphy.com/embed/2FXerza4GD744&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;position:absolute&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://giphy.com/gifs/boy-meets-world-cory-matthews-2FXerza4GD744&quot;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More importantly the reason I am here is that I and a few friends have put together &lt;a href=&quot;https://ngdecides.tecmie.com&quot;&gt;Nigeria Election&lt;/a&gt;, a source feed for results from the Nigerian Elections held in 2019, hopefully in an easy to &lt;strong&gt;navigate, search and review manner&lt;/strong&gt;&lt;/p&gt;
+
+&lt;svg viewBox=&quot;0 0 800 600&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; xml:space=&quot;preserve&quot;&gt;&lt;g font-family=&quot;Arial&quot; font-size=&quot;11px&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot; stroke-linecap=&quot;square&quot;&gt;&lt;rect id=&quot;b19992&quot; x=&quot;0&quot; y=&quot;0&quot; width=&quot;800&quot; height=&quot;600&quot; /&gt;&lt;use xlink:href=&quot;#b19992&quot; fill=&quot;#FFFFFF&quot; /&gt;&lt;path id=&quot;b19993&quot; stroke-linecap=&quot;butt&quot; d=&quot;M270.5,105.5 A195,195 0 0 1 270.66,105.5 L270.5,300.5 L270.5,105.5 Z&quot; /&gt;&lt;use xlink:href=&quot;#b19993&quot; fill=&quot;#FF6666&quot; stroke=&quot;#FF6666&quot; /&gt;&lt;path id=&quot;b19994&quot; stroke-linecap=&quot;butt&quot; d=&quot;M269.735,105.502 A195,195 0 0 1 270.5,105.5 L270.5,300.5 L269.735,105.502 Z&quot; /&gt;&lt;use xlink:href=&quot;#b19994&quot; fill=&quot;#CCFFFF&quot; stroke=&quot;#CCFFFF&quot; /&gt;&lt;path id=&quot;b19995&quot; stroke-linecap=&quot;butt&quot; d=&quot;M270.66,105.5 A195,195 0 0 1 271.383,105.502 L270.5,300.5 L270.66,105.5 Z&quot; /&gt;&lt;use xlink:href=&quot;#b19995&quot; fill=&quot;#80FF80&quot; stroke=&quot;#80FF80&quot; /&gt;&lt;path id=&quot;b19996&quot; stroke-linecap=&quot;butt&quot; d=&quot;M271.383,105.502 A195,195 0 0 1 271.611,105.503 L270.5,300.5 L271.383,105.502 Z&quot; /&gt;&lt;use xlink:href=&quot;#b19996&quot; fill=&quot;#6666FF&quot; stroke=&quot;#6666FF&quot; /&gt;&lt;path id=&quot;b19997&quot; stroke-linecap=&quot;butt&quot; d=&quot;M263.872,495.387 A195,195 0 0 1 269.735,105.502 L270.5,300.5 L263.872,495.387 Z&quot; /&gt;&lt;use xlink:href=&quot;#b19997&quot; fill=&quot;#FF66FF&quot; stroke=&quot;#FF66FF&quot; /&gt;&lt;path id=&quot;b19998&quot; stroke-linecap=&quot;butt&quot; d=&quot;M271.611,105.503 A195,195 0 1 1 263.872,495.387 L270.5,300.5 L271.611,105.503 Z&quot; /&gt;&lt;use xlink:href=&quot;#b19998&quot; fill=&quot;#FFFF80&quot; stroke=&quot;#FFFF80&quot; /&gt;&lt;line id=&quot;b19999&quot; x1=&quot;270.5&quot; y1=&quot;105.5&quot; x2=&quot;270.5&quot; y2=&quot;104.5&quot; /&gt;&lt;use xlink:href=&quot;#b19999&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20000&quot; x1=&quot;270.5&quot; y1=&quot;104.5&quot; x2=&quot;461.5&quot; y2=&quot;104.5&quot; /&gt;&lt;use xlink:href=&quot;#b20000&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20001&quot; x1=&quot;461.5&quot; y1=&quot;104.5&quot; x2=&quot;479.5&quot; y2=&quot;86.5&quot; /&gt;&lt;use xlink:href=&quot;#b20001&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20002&quot; x1=&quot;479.5&quot; y1=&quot;86.5&quot; x2=&quot;480.5&quot; y2=&quot;86.5&quot; /&gt;&lt;use xlink:href=&quot;#b20002&quot; stroke=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20003&quot; x=&quot;480.5&quot; y=&quot;77.5&quot; width=&quot;13&quot; height=&quot;17&quot; /&gt;&lt;use xlink:href=&quot;#b20003&quot; fill=&quot;#FF6666&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20004&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;484&quot; y=&quot;91&quot;&gt;1&lt;/text&gt;&lt;use xlink:href=&quot;#b20004&quot; fill=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20005&quot; x1=&quot;271.5&quot; y1=&quot;105.5&quot; x2=&quot;271.5&quot; y2=&quot;104.5&quot; /&gt;&lt;use xlink:href=&quot;#b20005&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20006&quot; x1=&quot;271.5&quot; y1=&quot;104.5&quot; x2=&quot;479.5&quot; y2=&quot;104.5&quot; /&gt;&lt;use xlink:href=&quot;#b20006&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20007&quot; x1=&quot;479.5&quot; y1=&quot;104.5&quot; x2=&quot;480.5&quot; y2=&quot;104.5&quot; /&gt;&lt;use xlink:href=&quot;#b20007&quot; stroke=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20008&quot; x=&quot;480.5&quot; y=&quot;95.5&quot; width=&quot;13&quot; height=&quot;17&quot; /&gt;&lt;use xlink:href=&quot;#b20008&quot; fill=&quot;#80FF80&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20009&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;484&quot; y=&quot;109&quot;&gt;2&lt;/text&gt;&lt;use xlink:href=&quot;#b20009&quot; fill=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20010&quot; x1=&quot;271.5&quot; y1=&quot;105.5&quot; x2=&quot;271.5&quot; y2=&quot;104.5&quot; /&gt;&lt;use xlink:href=&quot;#b20010&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20011&quot; x1=&quot;271.5&quot; y1=&quot;104.5&quot; x2=&quot;461.5&quot; y2=&quot;104.5&quot; /&gt;&lt;use xlink:href=&quot;#b20011&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20012&quot; x1=&quot;461.5&quot; y1=&quot;104.5&quot; x2=&quot;479.5&quot; y2=&quot;122.5&quot; /&gt;&lt;use xlink:href=&quot;#b20012&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20013&quot; x1=&quot;479.5&quot; y1=&quot;122.5&quot; x2=&quot;480.5&quot; y2=&quot;122.5&quot; /&gt;&lt;use xlink:href=&quot;#b20013&quot; stroke=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20014&quot; x=&quot;480.5&quot; y=&quot;113.5&quot; width=&quot;13&quot; height=&quot;17&quot; /&gt;&lt;use xlink:href=&quot;#b20014&quot; fill=&quot;#6666FF&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20015&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;484&quot; y=&quot;127&quot;&gt;3&lt;/text&gt;&lt;use xlink:href=&quot;#b20015&quot; fill=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20016&quot; x1=&quot;465.5&quot; y1=&quot;304.5&quot; x2=&quot;466.5&quot; y2=&quot;304.5&quot; /&gt;&lt;use xlink:href=&quot;#b20016&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20017&quot; x1=&quot;466.5&quot; y1=&quot;304.5&quot; x2=&quot;479.5&quot; y2=&quot;304.5&quot; /&gt;&lt;use xlink:href=&quot;#b20017&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20018&quot; x1=&quot;479.5&quot; y1=&quot;304.5&quot; x2=&quot;480.5&quot; y2=&quot;304.5&quot; /&gt;&lt;use xlink:href=&quot;#b20018&quot; stroke=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20019&quot; x=&quot;480.5&quot; y=&quot;295.5&quot; width=&quot;13&quot; height=&quot;17&quot; /&gt;&lt;use xlink:href=&quot;#b20019&quot; fill=&quot;#FFFF80&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20020&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;484&quot; y=&quot;309&quot;&gt;4&lt;/text&gt;&lt;use xlink:href=&quot;#b20020&quot; fill=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20021&quot; x1=&quot;75.5&quot; y1=&quot;297.5&quot; x2=&quot;74.5&quot; y2=&quot;297.5&quot; /&gt;&lt;use xlink:href=&quot;#b20021&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20022&quot; x1=&quot;74.5&quot; y1=&quot;297.5&quot; x2=&quot;60.5&quot; y2=&quot;297.5&quot; /&gt;&lt;use xlink:href=&quot;#b20022&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20023&quot; x1=&quot;60.5&quot; y1=&quot;297.5&quot; x2=&quot;59.5&quot; y2=&quot;297.5&quot; /&gt;&lt;use xlink:href=&quot;#b20023&quot; stroke=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20024&quot; x=&quot;46.5&quot; y=&quot;288.5&quot; width=&quot;13&quot; height=&quot;17&quot; /&gt;&lt;use xlink:href=&quot;#b20024&quot; fill=&quot;#FF66FF&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20025&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;50&quot; y=&quot;302&quot;&gt;5&lt;/text&gt;&lt;use xlink:href=&quot;#b20025&quot; fill=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20026&quot; x1=&quot;270.5&quot; y1=&quot;105.5&quot; x2=&quot;270.5&quot; y2=&quot;104.5&quot; /&gt;&lt;use xlink:href=&quot;#b20026&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20027&quot; x1=&quot;270.5&quot; y1=&quot;104.5&quot; x2=&quot;60.5&quot; y2=&quot;104.5&quot; /&gt;&lt;use xlink:href=&quot;#b20027&quot; stroke=&quot;#000000&quot; /&gt;&lt;line id=&quot;b20028&quot; x1=&quot;60.5&quot; y1=&quot;104.5&quot; x2=&quot;59.5&quot; y2=&quot;104.5&quot; /&gt;&lt;use xlink:href=&quot;#b20028&quot; stroke=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20029&quot; x=&quot;46.5&quot; y=&quot;95.5&quot; width=&quot;13&quot; height=&quot;17&quot; /&gt;&lt;use xlink:href=&quot;#b20029&quot; fill=&quot;#CCFFFF&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20030&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;50&quot; y=&quot;109&quot;&gt;6&lt;/text&gt;&lt;use xlink:href=&quot;#b20030&quot; fill=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20031&quot; x=&quot;561.5&quot; y=&quot;110.5&quot; width=&quot;9&quot; height=&quot;9&quot; /&gt;&lt;use xlink:href=&quot;#b20031&quot; fill=&quot;#FF6666&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20032&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;576&quot; y=&quot;120&quot;&gt;1. AAC 75&lt;/text&gt;&lt;use xlink:href=&quot;#b20032&quot; fill=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20033&quot; x=&quot;561.5&quot; y=&quot;133.5&quot; width=&quot;9&quot; height=&quot;9&quot; /&gt;&lt;use xlink:href=&quot;#b20033&quot; fill=&quot;#80FF80&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20034&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;576&quot; y=&quot;143&quot;&gt;2. ADC 339&lt;/text&gt;&lt;use xlink:href=&quot;#b20034&quot; fill=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20035&quot; x=&quot;561.5&quot; y=&quot;156.5&quot; width=&quot;9&quot; height=&quot;9&quot; /&gt;&lt;use xlink:href=&quot;#b20035&quot; fill=&quot;#6666FF&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20036&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;576&quot; y=&quot;166&quot;&gt;3. ADP 107&lt;/text&gt;&lt;use xlink:href=&quot;#b20036&quot; fill=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20037&quot; x=&quot;561.5&quot; y=&quot;179.5&quot; width=&quot;9&quot; height=&quot;9&quot; /&gt;&lt;use xlink:href=&quot;#b20037&quot; fill=&quot;#FFFF80&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20038&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;576&quot; y=&quot;189&quot;&gt;4. APC 289903&lt;/text&gt;&lt;use xlink:href=&quot;#b20038&quot; fill=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20039&quot; x=&quot;561.5&quot; y=&quot;202.5&quot; width=&quot;9&quot; height=&quot;9&quot; /&gt;&lt;use xlink:href=&quot;#b20039&quot; fill=&quot;#FF66FF&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20040&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;576&quot; y=&quot;212&quot;&gt;5. PDP 283847&lt;/text&gt;&lt;use xlink:href=&quot;#b20040&quot; fill=&quot;#000000&quot; /&gt;&lt;rect id=&quot;b20041&quot; x=&quot;561.5&quot; y=&quot;225.5&quot; width=&quot;9&quot; height=&quot;9&quot; /&gt;&lt;use xlink:href=&quot;#b20041&quot; fill=&quot;#CCFFFF&quot; stroke=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20042&quot; style=&quot;font-family:'Open Sans Semibold';font-size:13px;&quot; x=&quot;576&quot; y=&quot;235&quot;&gt;6. SDP 359&lt;/text&gt;&lt;use xlink:href=&quot;#b20042&quot; fill=&quot;#000000&quot; /&gt;&lt;text id=&quot;b20043&quot; style=&quot;font-family:'Open Sans Semibold';font-size:17px;&quot; x=&quot;304&quot; y=&quot;24&quot;&gt;Nasarawa State Results&lt;/text&gt;&lt;use xlink:href=&quot;#b20043&quot; fill=&quot;#000000&quot; /&gt;&lt;/g&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;flex items-center justify-center pa4 bg-lightest-blue navy&quot;&gt;
+  &lt;svg class=&quot;w1&quot; data-icon=&quot;info&quot; viewBox=&quot;0 0 32 32&quot; style=&quot;fill:currentcolor&quot;&gt;
+    &lt;title&gt;info icon&lt;/title&gt;
+    &lt;path d=&quot;M16 0 A16 16 0 0 1 16 32 A16 16 0 0 1 16 0 M19 15 L13 15 L13 26 L19 26 z M16 6 A3 3 0 0 0 16 12 A3 3 0 0 0 16 6&quot;&gt;&lt;/path&gt;
+  &lt;/svg&gt;
+  &lt;span class=&quot;lh-title ml3&quot;&gt;Hopefully this is useful to someone &lt;a class=&quot;f6 link dim ba ph3 pv2 white&quot; href=&quot;https://ngdecides.tecmie.com&quot;&gt;Check it out&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="open-source" />
+      
+
+      
+        <summary type="html">On the 23rd of February Nigerians will decide a New President. Who we expect will lead us to the promise land</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

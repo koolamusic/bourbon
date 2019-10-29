@@ -1,28 +1,275 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }} - Articles</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <title> - Articles</title>
+    <description>I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are.</description>
     <link>
-    {{ site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.link %}
+    </link>
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <title>Your Manager wants you to succeed</title>
+        
+          <description>We are wired to work, it's our nature, to glorify God as we cultivate blessing from the created order and contribute value to others through the labor of our minds, hearts, and hands.</description>
+        
+        <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
         <link>
-        {{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        /posts/manager-wants-your-success</link>
+        <guid isPermaLink="true">/posts/manager-wants-your-success</guid>
       </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
+      
+      <item>
+        <title>Nigeria Decides 2019</title>
+        
+          <description>&lt;p&gt;On the 23rd of February Nigerians will decide a &lt;a href=&quot;https://en.wikipedia.org/wiki/2019_Nigerian_general_election&quot;&gt;New President&lt;/a&gt;. Who we expect will lead us to the promise land&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/nigerian-elections-update</link>
+        <guid isPermaLink="true">/posts/nigerian-elections-update</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Traditions and Cultures we learnt from our Forefathers</title>
+        
+          <description>While growing up in the village, I observed that when elders gather, they always “litter” a portion of wine on the ground</description>
+        
+        <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/fetishes-our-forefathers-practiced</link>
+        <guid isPermaLink="true">/posts/fetishes-our-forefathers-practiced</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>What is your occupation ?</title>
+        
+          <description>&lt;p&gt;We work every day, somehow it seems like most of us were wired this way, some say the hustle is real or the struggle is, you can define yours anyway. If it isn't toiling with engines and machines, making glue stick, talking your way into people's heart or speeding across geographical boundaries, for some it's transversing needle and thread across the epidermis, writing our way into the thought patterns of industries, fields, and organizations.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/humans-and-work</link>
+        <guid isPermaLink="true">/posts/humans-and-work</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>7 Valuable guides for Living</title>
+        
+          <description>&lt;p&gt;I was recently going through my document archive and found some age long advise I had given myself, which I consider very valuable advise to anyone, so here I am sharing it with you and I hope it turns out to be very useful to you too.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/valuable-guides-for-living</link>
+        <guid isPermaLink="true">/posts/valuable-guides-for-living</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Palindrome in Javascript</title>
+        
+          <description>&lt;blockquote&gt;#30 days of Javascript Algorithms - D2&lt;/blockquote&gt;
+
+</description>
+        
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/algorithms-js-palindrome</link>
+        <guid isPermaLink="true">/posts/algorithms-js-palindrome</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>String Reversal in Javascript</title>
+        
+          <description>&lt;blockquote&gt;#30 days of Javascript Algorithms - D1&lt;/blockquote&gt;
+
+</description>
+        
+        <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/algorithms-js-string-reversal</link>
+        <guid isPermaLink="true">/posts/algorithms-js-string-reversal</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Boiled Plaintain</title>
+        
+          <description>&lt;p&gt;Not so early this morning I had breakfast, not the usual kind but before we get to that let’s talk about the period before this.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/boiled-plantain</link>
+        <guid isPermaLink="true">/posts/boiled-plantain</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Deadline versus Lifeline</title>
+        
+          <description>&lt;p&gt;We are stuck goals and milestones in a modern age, where everything is moving fast and millenials are expected to meet very high expectations, this is not our point though&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/deadline-vs-lifeline</link>
+        <guid isPermaLink="true">/posts/deadline-vs-lifeline</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>What can a course in programming to do you ?</title>
+        
+          <description>&lt;blockquote&gt;Have you considered learning to code&lt;/blockquote&gt;
+
+</description>
+        
+        <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/what-can-programming-do-for-me</link>
+        <guid isPermaLink="true">/posts/what-can-programming-do-for-me</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>After Software Development what next ?</title>
+        
+          <description>&lt;p&gt;i recently came across an acquaintaince who had about 20 years of experience in the software development field, and was wondering what next he should do at this point in his career and life, though I didnt have the opportunity to share my answers to him, at the top of my head, these were my thoughts&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/after-software-development-what-next</link>
+        <guid isPermaLink="true">/posts/after-software-development-what-next</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Lessons learned from building for startups</title>
+        
+          <description>Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch.</description>
+        
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+        <link>
+        /posts/developing-for-startups</link>
+        <guid isPermaLink="true">/posts/developing-for-startups</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Managing Christmas Depression</title>
+        
+          <description>&lt;blockquote&gt;Christmas is almost a week away and like they say, depression is tough at the best of times. Perhaps it’s the best of times as the holiday/season of Christmas is when it’s especially tough.&lt;/blockquote&gt;
+
+</description>
+        
+        <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+        <link>
+        /posts/christmas-depression</link>
+        <guid isPermaLink="true">/posts/christmas-depression</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Should you dive into HTML or else</title>
+        
+          <description>&lt;p&gt;I was chatting with someone recently who’s building their first website for a paying client. He’s doing extremely well, grappling with setting up hosting, domain names, CMS templates, Twig &lt;em&gt;and&lt;/em&gt; HTML and CSS. That’s a lot to simply learn. Producing something that’s someone’s willing to pay for while you learn is doubly difficult.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+        <link>
+        /posts/should-you-dive-into-html</link>
+        <guid isPermaLink="true">/posts/should-you-dive-into-html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>How God Coded the High Priest Order</title>
+        
+          <description>&lt;pre&gt;Hebrew 7-10&lt;/pre&gt;
+&lt;p&gt;Prayer used to have a version one in the old testament, all protocols went through the high priest into the inner chamber who them dispatched(prayer.actions) into heaven. In this model prayer was a single threaded protocol. &lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+        <link>
+        /posts/god-code-high-priest-order</link>
+        <guid isPermaLink="true">/posts/god-code-high-priest-order</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Giving with expectation</title>
+        
+          <description>&lt;p&gt;Why is it easy for people to give when they have or most likely give with an expectation to receive, this is very popular among the African community especially in Nigeria, that is why folks can invest in schemes like zarfund, mmm, ultimatecycle and the rest of them, because they know they will receive.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+        <link>
+        /posts/giving-receiving</link>
+        <guid isPermaLink="true">/posts/giving-receiving</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Measuring experience</title>
+        
+          <description>&lt;p&gt;Everyone thinks &lt;em&gt;experience&lt;/em&gt; is important. After all, the argument goes, the ultimate reason for using any service is to experience something, whether that’s a sense of wonder and excitement when you discover something new, enjoyment at some particularly interesting writing or, more prosaically, a sense of relief at paying an overdue bill.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+        <link>
+        /posts/measuring-experience</link>
+        <guid isPermaLink="true">/posts/measuring-experience</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Businessman &amp; The Fisherman</title>
+        
+          <description>&lt;p&gt;An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 12 Aug 2014 10:18:00 +0000</pubDate>
+        <link>
+        /posts/the-businessman-and-fisherman</link>
+        <guid isPermaLink="true">/posts/the-businessman-and-fisherman</guid>
+      </item>
+      
+    
   </channel>
 </rss>

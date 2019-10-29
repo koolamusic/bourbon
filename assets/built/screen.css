@@ -587,8 +587,8 @@ h5, h6 {
 .site-nav-logo img {
     display: block;
     width: auto;
-    height: 28px;
-    margin-top: -7px;
+    height: 23px;
+    margin-top: -3px;
 }
 
 .nav {
@@ -912,14 +912,14 @@ h5, h6 {
 
 .post-full-header {
     margin: 0 auto;
-    padding: 5vw 7vw 0;
+    padding: 5vw 99px 0;
     max-width: 1040px;
     text-align: left
 }
 
 @media (max-width:999px) {
     .post-full-header {
-        /* padding: 14vw 3vw 10vw; */
+        padding: 4vw 60px 0;
         margin-top: 10rem;
     }
 }
@@ -2040,7 +2040,7 @@ h5, h6 {
     justify-content: center;
     -ms-flex-align: center;
     align-items: center;
-    background: rgba(0, 0, 0, .98);
+    background: rgba(0, 0, 0, 1);
     opacity: 0;
     transition: opacity .2s ease-in-out;
     pointer-events: none;
@@ -2145,13 +2145,15 @@ h5, h6 {
 }
 
 .subscribe-overlay button:active, .subscribe-overlay button:focus {
-    background: #209cdf
+    background: #CF4A4A;
 }
 
 .subscribe-overlay-close {
     position: absolute;
-    top: 0;
-    right: 0;
+    top: -5px;
+    right: 40px;
+    z-index: 1399;
+    /* right: 3.5%; */
     bottom: 0;
     left: 0;
     display: block
@@ -2197,16 +2199,20 @@ h5, h6 {
     -ms-flex-pack: justify;
     justify-content: space-between;
     -ms-flex-align: center;
-    align-items: center;
-    font-size: 1.3rem
+    align-items: flex-start;
+    font-size: 1.3rem;
+    color: #010203;
+    width: 100%;
+    margin-top: 7rem;
+    margin-bottom: 1.5rem;
 }
 
 .site-footer-content, .site-footer-content a {
-    color: hsla(0, 0%, 100%, .7)
+    color: #010203;
 }
 
 .site-footer-content a:hover {
-    color: #fff;
+    color: hsla(0, 0%, 100%, .7);
     text-decoration: none
 }
 
@@ -2238,8 +2244,8 @@ h5, h6 {
 
 @media (max-width:650px) {
     .site-footer-content {
-        -ms-flex-direction: column;
-        flex-direction: column
+        -ms-flex-direction: row;
+        flex-direction: row
     }
     .site-footer-nav a:first-child {
         margin-left: 0

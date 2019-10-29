@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/author/andrew/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2019-10-29T23:02:42+00:00</updated>
+  <id>/author/andrew/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Andrew Miracle | </title>
+  
+
+  
+    <subtitle>I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Lessons learned from building for startups</title>
+      <link href="/posts/developing-for-startups" rel="alternate" type="text/html" title="Lessons learned from building for startups" />
+      <published>2019-01-01T00:00:00+00:00</published>
+      <updated>2019-01-01T00:00:00+00:00</updated>
+      <id>/posts/developing-for-startups</id>
+      <content type="html" xml:base="/posts/developing-for-startups">&lt;p&gt;Although we’d like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines – and budgets. We product owners need to think about how we manage this.&lt;/p&gt;
+
+&lt;p&gt;Browsers update regularly, making frequent, (mostly) small changes. This causes little disruption for users. It’s rare you’ll download a big update and find everything is completely different. This is is how we’d like to develop software over several years, especially with embedded systems.&lt;/p&gt;
+
+&lt;p&gt;But let’s say you have a finite budget and, consequently, a set-in-stone launch date – like the ship in the above picture. The expectation is that the product will be ready, and won’t sink if it bumps into any icebergs.&lt;/p&gt;
+
+&lt;p&gt;If your best feedback will come from real usage, you might plan a beta phase, as we did when developing library self-service software. This is useful,but there’s a big difference between a controlled roll out to 4 small libraries, and installing kiosks in over 20 libraries within various institutions in a region, where staff are less invested in the new product and require understanding to be able to utilize the benefits of the product.&lt;/p&gt;
+
+&lt;p&gt;We unearthed user problems during the launch I would have liked to have fixed more quickly, but we ran up against the big launch date curse of &lt;em&gt;no more project money&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The lesson learned is therefore quite simple:&lt;/p&gt;
+
+&lt;blockquote&gt;If you have an official launch date, make sure there is some project budget remaining for further changes after this date.&lt;/blockquote&gt;
+
+&lt;p&gt;Note: It’s important this money is kept aside for the project. There’s little value in coming in under budget (besides some temporary good PR that’ll come back to bite you later in your career) if your product isn’t perfect – and it’ll never be perfect.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Andrew Miracle</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="web" />
+      
+
+      
+        <summary type="html">Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Should you dive into HTML or else</title>
+      <link href="/posts/should-you-dive-into-html" rel="alternate" type="text/html" title="Should you dive into HTML or else" />
+      <published>2018-11-02T00:00:00+00:00</published>
+      <updated>2018-11-02T00:00:00+00:00</updated>
+      <id>/posts/should-you-dive-into-html</id>
+      <content type="html" xml:base="/posts/should-you-dive-into-html">&lt;p&gt;I was chatting with someone recently who’s building their first website for a paying client. He’s doing extremely well, grappling with setting up hosting, domain names, CMS templates, Twig &lt;em&gt;and&lt;/em&gt; HTML and CSS. That’s a lot to simply learn. Producing something that’s someone’s willing to pay for while you learn is doubly difficult.&lt;/p&gt;
+
+&lt;p&gt;One thing he was particularly frustrated about was receiving various files that he was expected to build web pages from. They might be Photoshop generated images or (a lot more usefully) Sketch wireframes. It’s a kind of baptism by fire – or by jQuery – where you try and wrangle something that &lt;em&gt;looks&lt;/em&gt; like something else that’s constructed differently, and serves a different purpose.&lt;/p&gt;
+
+&lt;p&gt;When I built sites for paying customers I was lucky, I think. I got work on the back of this website, and I suspect it’s pretty obvious you’re not going to get complex, poster-like layouts and effects from me.&lt;/p&gt;
+
+&lt;p&gt;So this site sets expectations nicely. I’ve also found that it’s important for the developer to control the conversation about what’s being built. And the only way to do that is to &lt;em&gt;start building HTML as soon as possible in the process&lt;/em&gt; for comment and approval. Once the customer (or someone in your team) produces a PNG and asks you to &lt;em&gt;translate&lt;/em&gt; it to HTML, you’re either going to have to have a “difficult conversation” or spend your time pushing pixels and reaching for more and more javascript or abstruse, difficult CSS in order to wrangle your screen into the right shape. Responsiveness, manageability and speed become afterthoughts.&lt;/p&gt;
+
+&lt;p&gt;That’s not to say something like a Photoshop-generated image doesn’t have its place as it can express things like tone, colour, mood and typography succinctly. Wireframes get you thinking about UI.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Andrew Miracle</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="journal" />
+      
+
+      
+        <summary type="html">I was chatting with someone recently who’s building their first website for a paying client. He’s doing extremely well, grappling with setting up hosting, domain names, CMS templates, Twig and HTML and CSS. That’s a lot to simply learn. Producing something that’s someone’s willing to pay for while you learn is doubly difficult.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
