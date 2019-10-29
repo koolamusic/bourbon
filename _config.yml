@@ -21,6 +21,9 @@ ref: assets/images/ref.png # fallback image for post content when there is no po
 production_url: https://koolamusic.github.io
 source_url: https://localhost:4000
 CNAME: #add cname for website to be created
+doing: EIT @MESTAfrica
+doing_url: '#!'
+reading: Rules of Management
 
 
 # Social info
