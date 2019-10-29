@@ -84,8 +84,8 @@ lsi: False
 username: koolamusic
 repo: koolamusic.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
+relative_source: ../jasper-pages/
+destination: ../jasper-pages/
 production_url:  https://andrewmiracle.com
 source_url:  https://github.com/koolamusic/koolamusic.github.io
 
