@@ -18,8 +18,8 @@ logo_black: assets/images/am.png
 logo_dark: assets/images/icon.png
 favicon: assets/images/favicon.png
 ref: assets/images/ref.png # fallback image for post content when there is no post cover
-production_url: https://koolamusic.github.io
-source_url: https://localhost:4000
+production_url: https://andrewmiracle.com
+source_url: https://andrewmiracle.com
 CNAME: #add cname for website to be created
 doing: EIT @MESTAfrica
 doing_url: '#!'
@@ -40,7 +40,7 @@ medium: koolamusic
 
 # Disqus
 disqus: True
-disqus_shortname: localhost-epkwmenbs3 # replace with your disqus username
+disqus_shortname: andrew-miracle # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-6928197-1 # replace with your GA tracking identifier
@@ -82,12 +82,12 @@ feed:
 safe: False
 lsi: False
 username: koolamusic
-repo: koolamusic.github.io
+repo: bourbon
 branch: master
-relative_source: ../jasper-pages/
-destination: ../jasper-pages/
+relative_source: ../bourbon-pages/
+destination: ../bourbon-pages/
 production_url:  https://andrewmiracle.com
-source_url:  https://github.com/koolamusic/koolamusic.github.io
+source_url:  https://github.com/koolamusic/bourbon
 
 exclude:
   - assets/css
