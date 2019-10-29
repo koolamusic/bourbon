@@ -474,18 +474,22 @@ td.code {
         font-size: 3.5rem;
     }
     .footer-display-flex {
-        flex-direction: column;
+        flex-direction: column-reverse;
         flex-wrap: wrap;
     }
     .footer__layout-block:nth-last-child(1) {
         margin: 0;
         width: 100%;
         margin-top: 4rem;
-        padding: 1rem;
+        padding: 1.3rem;
     }
     .footer__block-bottom h5 {
         font-size: 1.2rem;
         line-height: 100%;
+    }
+    .footer__layout-block .site-home__social{
+        margin-top: 3rem;
+        /* padding-bottom: 5rem; */
     }
 
 
