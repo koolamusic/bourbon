@@ -11,8 +11,9 @@ navigation: True
 <!-- <header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}"> -->
 
 <header>
-    <div class="site-header outer header-light">
-        {% include site-nav.html %}
+    <div class="outer site-home-navigation" style="float: right;">
+            <a class="subscribe-button no-display-sm" href="#subscribe">{% include menu.html %}</a>
+        <!-- {% include site-nav.html %} -->
     </div>
     <div class="inner">
             <div class="site-home__content">
@@ -46,8 +47,9 @@ navigation: True
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
-
-        <div class="post-feed">
+        
+        <h2 class="" style="display: block">&mdash; Blog Posts</h2>
+        <div class="post-feed" style="margin-top: 1.5rem">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             {%  include post-card.html %}
         </div>
