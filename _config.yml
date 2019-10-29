@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: "/"
 
 
 # Website info
@@ -43,7 +43,7 @@ disqus: True
 disqus_shortname: andrew-miracle # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-6928197-1 # replace with your GA tracking identifier
+google_analytics: UA-52368657-4 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: posts/:title
