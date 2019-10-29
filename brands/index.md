@@ -2,6 +2,7 @@
 # layout: page
 # title: Brands
 # class: page-template
+navigation: True
 layout: default
 current: home
 class: 'home-template'

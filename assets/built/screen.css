@@ -2152,6 +2152,7 @@ h5, h6 {
     position: absolute;
     top: 0;
     right: 40px;
+    z-index: 1999;
     /* right: 3.5%; */
     bottom: 0;
     left: 0;
