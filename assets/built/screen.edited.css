@@ -454,6 +454,9 @@ td.code {
         font-size: 1.3rem;
         line-height: 1rem;
     }
+    .no-display-sm {
+        display: none
+    }
 
 }
 

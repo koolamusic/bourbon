@@ -2150,7 +2150,7 @@ h5, h6 {
 
 .subscribe-overlay-close {
     position: absolute;
-    top: 0;
+    top: -5px;
     right: 40px;
     z-index: 1999;
     /* right: 3.5%; */
