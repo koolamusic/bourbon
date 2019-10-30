@@ -85,9 +85,9 @@ username: koolamusic
 repo: bourbon
 branch: master
 # relative_source: ./
-destination: ../jasper2-pages/
-production_url:  https://andrewmiracle.com
-source_url:  https://github.com/koolamusic/bourbon
+destination: bourbon
+# production_url:  https://andrewmiracle.com
+# source_url:  https://github.com/koolamusic/bourbon
 
 exclude:
   - assets/css
