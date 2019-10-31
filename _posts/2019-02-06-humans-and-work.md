@@ -1,8 +1,12 @@
 ---
 layout: post
-title: What is your occupation ?
-category: thinking
-image: andrew.jpg
+current: post
+title: Defining who we are
+class: post-template
+navigation: True
+cover: assets/images/bus.jpg
+subsclass: 'post tag-thinking'
+tag: thinking
 ---
 
 
@@ -14,7 +18,7 @@ image: andrew.jpg
 
 I am Andrew Miracle, I help people fulfill their dreams, achieve their goals, innovate their process and make living efficient using software & technology
 
+*industrialization*
+
 What do you do?
 
-
-*industrialization*
