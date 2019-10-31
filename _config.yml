@@ -37,7 +37,7 @@ medium: koolamusic
 
 # Disqus
 disqus: True
-disqus_shortname: andrew-miracle # replace with your disqus username
+disqus_shortname: localhost-epkwmenbs3 # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-52368657-4 # replace with your GA tracking identifier
@@ -81,11 +81,11 @@ lsi: False
 username: koolamusic
 repo: bourbon
 branch: master
-destination: bourbon
+# destination: ../bourbon-pages/
 production_url: https://andrewmiracle.com
 CNAME: andrewmiracle.com #add cname for website to be created
 source_url:  https://github.com/koolamusic/bourbon
-# relative_source: ./
+# relative_source: ../
 # source_url: https://andrewmiracle.com
 # production_url:  https://andrewmiracle.com
 

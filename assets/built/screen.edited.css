@@ -160,6 +160,7 @@ td.code {
     align-content: center;
     align-items: center;
     justify-content: center;
+    padding: 15px;
 }
 
 .bottom-wrapper::before {
