@@ -1,14 +1,13 @@
 ---
-layout: post
-current: post
-class: post-template
+layout: page
+current: about
+class: page-template
 title: EIT Statement
 navigation: True
 ---
 
 
-
-
+---
 
 Hi I am Andrew, I cofounded Tecmie, Wootivmedia, which are Digital Branding and Consulting services targeted at different markets.
 
