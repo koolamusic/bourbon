@@ -62,6 +62,23 @@ into the {body} of the default.hbs template -->
                 <div class="kg-card-markdown">
                     {{ content }}
                 </div>
+
+
+                <!-- Email subscribe form at the bottom of the page -->
+                <div class="inner subscribe__frame-embed">
+                    <!-- <section class="subscribe-form"> -->
+                        <h3 class="subscribe-form-title">Subscribe to my Newsletter</h3>
+                        <p>Get the latest of my posts and podcasts delivered right to your inbox</p>
+                        <iframe src="https://koolamusic.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+                    <!-- </section> -->
+                </div>
+                <!-- {% if site.subscribers == True %} -->
+                    <!-- <section class="subscribe-form"> -->
+                        <!-- {% include subscribe-form.html  %} -->
+ 
+                    <!-- </section> -->
+                <!-- {% endif %} -->
+
                  <!-- Go to www.addthis.com/dashboard to customize your tools inline sharing --> 
                  <div class="addthis_inline_share_toolbox"></div> 
             </section>
@@ -71,42 +88,7 @@ into the {body} of the default.hbs template -->
     </div>
 </main>
 
-            <!-- Email subscribe form at the bottom of the page -->
-            {% if site.subscribers == True %}
-            <div class="inner">
-                <section class="subscribe-form">
-                    <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
-                    <p>Get the latest posts delivered right to your inbox</p>
-                    {% include subscribe-form.html placeholder="youremail@example.com" %}
-                </section>
-            </div>
-            {% endif %}
 
-            <!-- Everything inside the #author tags pulls data from the author -->
-            <!-- #author--
-                    <footer class="post-full-footer">
-                {% for author in site.data.authors %}
-                    {% if author[1].username == page.author %}
-                        <section class="author-card">
-                            {% if author[1].picture %}
-                                <img class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ page.author }}" />
-                            {% endif %}
-                            <section class="author-card-content">
-                                <h4 class="author-card-name"><a href="{{ site.baseurl }}author/{{ page.author }}">{{ author[1].name }}</a></h4>
-                                {% if author[1].bio %}
-                                    <p>{{ author[1].bio }}</p>
-                                {% else %}
-                                    <p>Read <a href="{{ site.baseurl }}author/{{ page.author }}">more posts</a> by this author.</p>
-                                {% endif %}
-                            </section>
-                        </section>
-                        <div class="post-full-footer-right">
-                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Read More</a>
-                        </div>
-                    {% endif %}
-                {% endfor %}
-            </footer>
-            </author  -->
 
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which

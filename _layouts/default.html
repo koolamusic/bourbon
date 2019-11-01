@@ -69,13 +69,6 @@
         </div>
     {% endif %}
 
-    <!-- highlight.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
-    <script>$(document).ready(function() {
-      $('pre code').each(function(i, block) {
-        hljs.highlightBlock(block);
-      });
-    });</script>
 
     <!-- jQuery + Fitvids, which makes all video embeds responsive -->
     <script
@@ -85,6 +78,15 @@
     </script>
     <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}assets/js/jquery.fitvids.js"></script>
 
+
+        <!-- highlight.js -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
+        <script>$(document).ready(function() {
+          $('pre code').each(function(i, block) {
+            hljs.highlightBlock(block);
+          });
+        });</script>
+    
     <!-- Paginator increased to "infinit" in _config.yml -->
     <!-- if paginator.posts  -->
     <!-- <script>

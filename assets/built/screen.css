@@ -54,7 +54,7 @@ a {
 
 a:hover, a:active {
     color: #CF4A4A;
-    background-image: linear-gradient(to right, #CF4A4A 0%, transparent 1%);
+    /* background-image: linear-gradient(to right, #CF4A4A 0%, transparent 1%); */
     text-decoration: none;
 }
 

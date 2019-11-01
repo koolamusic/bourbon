@@ -12,9 +12,10 @@ img: andrew.jpg
 
 
 
-`Your manager wants you to succeed that's the hard truth`
 
 We are wired to work, it's our nature, to glorify God as we cultivate blessing from the created order and contribute value to others through the labor of our minds, hearts, and hands. For most of us this work greets us each Monday morning with a myriad of thorns and thistles. Sometimes we may struggle with our work or with our Managers, Head of Departments, Leaders etc.
+
+<blockquote>Your manager wants you to succeed that's the hard truth</blockquote>
 
 Given the amount of pressure and expectation in our modern workplaces today, it could be hard to agree that your manager wants you to succeed. Sometimes they may not have the best way of showing it, however, you completing a task helps the company hit some KPI, meet their target and that means results, the type that can help the company's decision making process.
 
