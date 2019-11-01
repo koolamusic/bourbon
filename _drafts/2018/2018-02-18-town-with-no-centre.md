@@ -1,6 +1,6 @@
 ---
 title: "The town with no centre"
-category: thinking
+tag: journal
 article: true
 ---
 

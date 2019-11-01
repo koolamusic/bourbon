@@ -1,11 +1,14 @@
 ---
 layout: post
+current: post
+class: post-template
+navigation: True
+# date: 2014-08-12 10:18:00
 title: What can a course in programming to do you ?
-category: thinking
-image: atom.jpg
+tag: [code, journal]
+cover: assets/images/atom.png
 ---
 
-<blockquote>Have you considered learning to code</blockquote>
 
 So you may be wondering what benefits you get from learning how to code, apart from the obvious benefits, learning how to code can help you 
 
@@ -16,6 +19,8 @@ So you may be wondering what benefits you get from learning how to code, apart f
 * Help you get a job (There are a lot of testimonies out there about totally beginners getting a job after completing a coding program)
 
 It is very easy to get started with online resources that make it easy and have a very welcoming community where you can learn from 
+
+<blockquote>Have you considered learning to code</blockquote>
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/)

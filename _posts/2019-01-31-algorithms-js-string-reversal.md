@@ -1,11 +1,12 @@
 ---
 layout: post
+current: post
+class: post-template
+navigation: True
 title: String Reversal in Javascript
-category: code
-image: atom.jpg
+tag: code
+cover: assets/images/string-reverse.jpg
 ---
-
-<blockquote>#30 days of Javascript Algorithms - D1</blockquote>
 
 In this javascript algorithm, I would be sharing with us different methods to reverse a string in javascript.
 This is a common exercise in coding interviews, entry level algorithm challenges, though implementation in various languages may be different we would be looking at how to reverse a string in javascript, hope this helps you.
@@ -80,8 +81,7 @@ function reverse(str) {
   return reversed;
 }
 ```
+
 The for Of loop can iterate through Arrays, Strings and Javascript constructs that return `true` to the `propertyIsEnumerable` arguement. 
-
-
 
 [Learn More about Algorithms from : The Coding Interview Bootcamp: Algorithms + Data Structures ](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/)

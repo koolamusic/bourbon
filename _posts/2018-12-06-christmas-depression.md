@@ -1,7 +1,12 @@
 ---
 layout: post
+current: post
+class: post-template
 title: Managing Christmas Depression
-category: thinking
+tag: journal
+navigation: True
+subclass: 'post tag-journal'
+cover: assets/images/christmas.jpg
 ---
 
 <blockquote>Christmas is almost a week away and like they say, depression is tough at the best of times. Perhaps it’s the best of times as the holiday/season of Christmas is when it’s especially tough.</blockquote>
@@ -23,4 +28,3 @@ While it’s not wise to totally withdraw from social life during the holidays, 
 Sharing is caring and I mean it both ways, share both the goodies of your life and the baddies :D with those you care for and care about you.
 
 Most importantly let the joy of the lord be your strength
-

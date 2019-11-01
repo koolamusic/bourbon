@@ -6,7 +6,7 @@ class: post-template
 subclass: 'post tag-open-source'
 title: Nigeria Decides 2019
 tag: open-source
-excerpt: On the 23rd of February Nigerians will decide a New President
+# excerpt: On the 23rd of February Nigerians will decide a New President
 navigation: True
 ---
 

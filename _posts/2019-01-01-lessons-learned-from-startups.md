@@ -1,13 +1,14 @@
 ---
 layout: post
 current: post
-navigation: False
-tags: web
+navigation: True
+tags: [web, startups, journal]
 author: andrew
 class: post-template
 title: Lessons learned from building for startups
-excerpt: Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch.
+# excerpt: Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch.
 subsclass: 'post tag-web'
+cover: assets/images/startup-lessons.jpg
 # cover: 
 ---
 

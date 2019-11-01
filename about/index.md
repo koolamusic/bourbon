@@ -9,7 +9,6 @@ logo: 'assets/images/headshot.jpg'
 class: page-template
 subclass: 'post page'
 order: 2
-hyphens: true
 ---
 
 <p>I am Andrew, a Full-stack Software Engineer with a solid background in Mobile and Web Landscapes, an Agile and SCRUM Project Master, Software Architect, Design Creative and Founder of Tecmie, a platforms solution architect for small and enterprise organizations including Education, Business, Retail and Government.</p>
