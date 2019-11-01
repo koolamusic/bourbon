@@ -1,7 +1,7 @@
 ---
 layout: post
 title: After Software Development what next ?
-category: thinking
+tag: journal
 ---
 
 i recently came across an acquaintaince who had about 20 years of experience in the software development field, and was wondering what next he should do at this point in his career and life, though I didnt have the opportunity to share my answers to him, at the top of my head, these were my thoughts

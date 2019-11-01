@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing Christmas Depression
-category: thinking
+tag: journal
 ---
 
 <blockquote>Christmas is almost a week away and like they say, depression is tough at the best of times. Perhaps it’s the best of times as the holiday/season of Christmas is when it’s especially tough.</blockquote>

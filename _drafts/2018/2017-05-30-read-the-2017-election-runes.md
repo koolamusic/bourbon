@@ -1,7 +1,7 @@
 ---
 title: Reading the runes (2017)
 layout: default
-category: thinking
+tag: journal
 description: "How do we predict &#8211; and form &#8211; events"
 ---
 

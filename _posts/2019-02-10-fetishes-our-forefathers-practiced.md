@@ -4,7 +4,7 @@ current: post
 class: post-template
 navigation: True
 title: Traditions and Cultures we learnt from our Forefathers
-tag: thinking
+tag: journal
 excerpt: While growing up in the village, I observed that when elders gather, they always “litter” a portion of wine on the ground
 cover: assets/images/palmwine.jpg
 alt: Palmwine Fetish

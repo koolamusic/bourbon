@@ -3,7 +3,7 @@ layout: post
 current: post
 class: post-template
 title: 7 Valuable guides for Living
-tag: thinking,life
+tag: [journal, life]
 cover: assets/images/living-guide.jpeg
 subsclass: 'post tag-thinking'
 navigation: True

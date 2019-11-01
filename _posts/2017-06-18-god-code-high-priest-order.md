@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How God Coded the High Priest Order
-category: thinking
+tag: journal
 ---
 
 <pre>Hebrew 7-10</pre>

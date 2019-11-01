@@ -1,7 +1,10 @@
 ---
 layout: post
+current: post
+class: post-template
+# date: 2014-08-12 10:18:00
 title: What can a course in programming to do you ?
-category: thinking
+tag: [code, journal]
 image: atom.jpg
 ---
 

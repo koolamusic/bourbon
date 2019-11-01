@@ -5,7 +5,7 @@ class: post
 post-template: post
 navigation: True
 title: Your Manager wants you to succeed
-tag: thinking
+tag: journal
 excerpt: We are wired to work, it's our nature, to glorify God as we cultivate blessing from the created order and contribute value to others through the labor of our minds, hearts, and hands.
 cover: assets/images/success-manager.jpg
 ---

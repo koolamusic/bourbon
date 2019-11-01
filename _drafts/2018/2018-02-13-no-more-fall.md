@@ -1,6 +1,6 @@
 ---
 title: "Albums, no more"
-category: thinking
+tag: journal
 article: true
 ---
 

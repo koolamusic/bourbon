@@ -6,7 +6,7 @@ class: post-template
 navigation: True
 cover: assets/images/bus.jpg
 subsclass: 'post tag-thinking'
-tag: thinking
+tag: journal
 ---
 
 

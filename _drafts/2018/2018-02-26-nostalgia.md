@@ -1,6 +1,6 @@
 ---
 title: "Against recent-nostalgia"
-category: thinking
+tag: journal
 article: true
 ---
 

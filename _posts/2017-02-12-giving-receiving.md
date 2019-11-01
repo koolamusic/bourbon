@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giving with expectation
-category: thinking
+tag: journal
 ---
 
 
