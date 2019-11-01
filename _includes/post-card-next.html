@@ -23,10 +23,10 @@
                 </header>
 
                 <section class="post-card-excerpt">
-                    {% if post.excerpt %}
-                        <p>{{ post.excerpt | strip_html | truncatewords: 33, "lorem" }}</p>
+                    {% if page.excerpt %}
+                        <p>{{ page.excerpt | strip_html | truncatewords: 33, "lorem" }}</p>
                     {% else %}
-                        <p>{{ post.content | strip_html | truncatewords: 33, "" }}</p>
+                        <p>{{ page.content | strip_html | truncatewords: 33, "" }}</p>
                     {% endif %}
                 </section>
             </a>
