@@ -11,6 +11,7 @@ author: andrew
 ---
 
 
+
 I was chatting with someone recently who's building their first website for a paying client. He's doing extremely well, grappling with setting up hosting, domain names, WIX, Wordpress, CMS templates, Twig _and_ HTML and CSS. That's a lot to simply learn. Producing something that's someone's willing to pay for while you learn is doubly difficult.
 
 One thing he was particularly frustrated about was receiving various files that he was expected to build web pages from. They might be Photoshop generated images or (a lot more usefully) Sketch wireframes. It's a kind of baptism by fire -- or by jQuery -- where you try and wrangle something that _looks_ like something else that's constructed differently, and serves a different purpose.
