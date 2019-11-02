@@ -81,11 +81,11 @@ lsi: False
 username: koolamusic
 repo: bourbon
 branch: master
-# destination: ../bourbon-pages/
+destination: ../bourbon-pages/
 production_url: https://andrewmiracle.com
 CNAME: andrewmiracle.com #add cname for website to be created
 source_url:  https://github.com/koolamusic/bourbon
-# relative_source: ../
+relative_source: ../bourbon-pages
 # source_url: https://andrewmiracle.com
 # production_url:  https://andrewmiracle.com
 
