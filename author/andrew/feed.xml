@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/andrew/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-10-30T00:27:39+00:00</updated>
+  <updated>2019-11-02T08:04:52+00:00</updated>
   <id>/author/andrew/feed.xml</id>
 
   
@@ -35,11 +35,11 @@
   
     <entry>
       <title type="html">Lessons learned from building for startups</title>
-      <link href="/posts/developing-for-startups" rel="alternate" type="text/html" title="Lessons learned from building for startups" />
+      <link href="/posts/lessons-learned-from-startups" rel="alternate" type="text/html" title="Lessons learned from building for startups" />
       <published>2019-01-01T00:00:00+00:00</published>
       <updated>2019-01-01T00:00:00+00:00</updated>
-      <id>/posts/developing-for-startups</id>
-      <content type="html" xml:base="/posts/developing-for-startups">&lt;p&gt;Although we’d like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines – and budgets. We product owners need to think about how we manage this.&lt;/p&gt;
+      <id>/posts/lessons-learned-from-startups</id>
+      <content type="html" xml:base="/posts/lessons-learned-from-startups">&lt;p&gt;Although we’d like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines – and budgets. We product owners need to think about how we manage this.&lt;/p&gt;
 
 &lt;p&gt;Browsers update regularly, making frequent, (mostly) small changes. This causes little disruption for users. It’s rare you’ll download a big update and find everything is completely different. This is is how we’d like to develop software over several years, especially with embedded systems.&lt;/p&gt;
 
@@ -72,9 +72,13 @@
       
         <category term="web" />
       
+        <category term="startups" />
+      
+        <category term="journal" />
+      
 
       
-        <summary type="html">Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch.</summary>
+        <summary type="html">Although we’d like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines – and budgets. We product owners need to think about how we manage this.</summary>
       
 
       
@@ -82,20 +86,29 @@
     </entry>
   
     <entry>
-      <title type="html">Should you dive into HTML or else</title>
-      <link href="/posts/should-you-dive-into-html" rel="alternate" type="text/html" title="Should you dive into HTML or else" />
+      <title type="html">Dive straight to code or wireframe</title>
+      <link href="/posts/dive-to-code-or-wireframe" rel="alternate" type="text/html" title="Dive straight to code or wireframe" />
       <published>2018-11-02T00:00:00+00:00</published>
       <updated>2018-11-02T00:00:00+00:00</updated>
-      <id>/posts/should-you-dive-into-html</id>
-      <content type="html" xml:base="/posts/should-you-dive-into-html">&lt;p&gt;I was chatting with someone recently who’s building their first website for a paying client. He’s doing extremely well, grappling with setting up hosting, domain names, CMS templates, Twig &lt;em&gt;and&lt;/em&gt; HTML and CSS. That’s a lot to simply learn. Producing something that’s someone’s willing to pay for while you learn is doubly difficult.&lt;/p&gt;
+      <id>/posts/dive-to-code-or-wireframe</id>
+      <content type="html" xml:base="/posts/dive-to-code-or-wireframe">&lt;p&gt;I was chatting with someone recently who’s building their first website for a paying client. He’s doing extremely well, grappling with setting up hosting, domain names, WIX, Wordpress, CMS templates, Twig &lt;em&gt;and&lt;/em&gt; HTML and CSS. That’s a lot to simply learn. Producing something that’s someone’s willing to pay for while you learn is doubly difficult.&lt;/p&gt;
 
 &lt;p&gt;One thing he was particularly frustrated about was receiving various files that he was expected to build web pages from. They might be Photoshop generated images or (a lot more usefully) Sketch wireframes. It’s a kind of baptism by fire – or by jQuery – where you try and wrangle something that &lt;em&gt;looks&lt;/em&gt; like something else that’s constructed differently, and serves a different purpose.&lt;/p&gt;
 
-&lt;p&gt;When I built sites for paying customers I was lucky, I think. I got work on the back of this website, and I suspect it’s pretty obvious you’re not going to get complex, poster-like layouts and effects from me.&lt;/p&gt;
+&lt;p&gt;When I build sites for paying customers, I think I have been unfairly blessed and lucky, I think. I got work on the back of this website, and I suspect it’s pretty obvious you’re not going to get complex, poster-like layouts and effects from me.&lt;/p&gt;
 
-&lt;p&gt;So this site sets expectations nicely. I’ve also found that it’s important for the developer to control the conversation about what’s being built. And the only way to do that is to &lt;em&gt;start building HTML as soon as possible in the process&lt;/em&gt; for comment and approval. Once the customer (or someone in your team) produces a PNG and asks you to &lt;em&gt;translate&lt;/em&gt; it to HTML, you’re either going to have to have a “difficult conversation” or spend your time pushing pixels and reaching for more and more javascript or abstruse, difficult CSS in order to wrangle your screen into the right shape. Responsiveness, manageability and speed become afterthoughts.&lt;/p&gt;
+&lt;p&gt;So this site sets expectations nicely. I’ve also found that it’s important for the developer to control the conversation about what’s being built. And the only way to do that is to &lt;em&gt;start building HTML as soon as possible in the process&lt;/em&gt; for comment and approval. Once the customer (or someone in your team) produces a Interface and asks you to &lt;em&gt;translate&lt;/em&gt; it to Code, you’re either going to have to have a “difficult conversation” or spend your time pushing pixels and reaching for more and more javascript or abstruse, difficult CSS in order to wrangle your screen into the right shape. Responsiveness, manageability and speed become afterthoughts.&lt;/p&gt;
 
-&lt;p&gt;That’s not to say something like a Photoshop-generated image doesn’t have its place as it can express things like tone, colour, mood and typography succinctly. Wireframes get you thinking about UI.&lt;/p&gt;</content>
+&lt;p&gt;That’s not to say something like a Sketch-generated image doesn’t have its place as it can express things like tone, colour, mood and typography succinctly. Wireframes get you thinking about UI.&lt;/p&gt;
+
+&lt;p&gt;However, with concern to quickly prototyping, platforms and tools have emerged that intend to make that process more efficient and faster, taking you from wireframe to high fidelity mockups even to HTML, React, or any Mobile template build you prefer. In you free time you can checkout any of these solutions.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uizard.io&quot;&gt;UIzard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://draftbit.com&quot;&gt;Draftbit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://framerx.io&quot;&gt;FramerX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://builderx.io&quot;&gt;BuilderX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
 
       
       
@@ -114,9 +127,11 @@
       
         <category term="journal" />
       
+        <category term="code" />
+      
 
       
-        <summary type="html">I was chatting with someone recently who’s building their first website for a paying client. He’s doing extremely well, grappling with setting up hosting, domain names, CMS templates, Twig and HTML and CSS. That’s a lot to simply learn. Producing something that’s someone’s willing to pay for while you learn is doubly difficult.</summary>
+        <summary type="html">I was chatting with someone recently who’s building their first website for a paying client. He’s doing extremely well, grappling with setting up hosting, domain names, WIX, Wordpress, CMS templates, Twig and HTML and CSS. That’s a lot to simply learn. Producing something that’s someone’s willing to pay for while you learn is doubly difficult.</summary>
       
 
       

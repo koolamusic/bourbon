@@ -43,21 +43,27 @@
     <meta property="og:site_name" content="Andrew Miracle" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="String Reversal in Javascript" />
-    <meta property="og:description" content="I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are." />
+    <meta property="og:description" content="In this javascript algorithm, I would be sharing with us different methods to reverse a string in javascript. This is a common exercise in coding interviews, entry level algorithm challenges, though implementation in various languages may be different we would be looking at how to reverse a string in javascript," />
     <meta property="og:url" content="/posts/algorithms-js-string-reversal" />
-    <meta property="og:image" content="/assets/images/blog-cover.jpg" />
+    <meta property="og:image" content="/assets/images/string-reverse.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/koolamusic" />
+    <meta property="article:author" content="https://www.facebook.com/koolamusic" />
+    <meta property="article:published_time" content="2019-01-31T00:00:00+00:00" />
+    <meta property="article:modified_time" content="2019-01-31T00:00:00+00:00" />
+    <meta property="article:tag" content="Code" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="String Reversal in Javascript" />
-    <meta name="twitter:description" content="I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are." />
+    <meta name="twitter:description" content="In this javascript algorithm, I would be sharing with us different methods to reverse a string in javascript. This is a common exercise in coding interviews, entry level algorithm challenges, though implementation in various languages may be different we would be looking at how to reverse a string in javascript," />
     <meta name="twitter:url" content="/" />
-    <meta name="twitter:image" content="/assets/images/blog-cover.jpg" />
+    <meta name="twitter:image" content="/assets/images/string-reverse.jpg" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Andrew Miracle" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Code" />
     <meta name="twitter:site" content="@koolamusic" />
     <meta name="twitter:creator" content="@koolamusic" />
-    <meta property="og:image:width" content="2000" />
-    <meta property="og:image:height" content="666" />
+    <meta property="og:image:width" content="1400" />
+    <meta property="og:image:height" content="933" />
 
     <script type="application/ld+json">
 {
@@ -71,7 +77,7 @@
     "url": "/posts/algorithms-js-string-reversal",
     "image": {
         "@type": "ImageObject",
-        "url": "/assets/images/blog-cover.jpg",
+        "url": "/assets/images/string-reverse.jpg",
         "width": 2000,
         "height": 666
     },
@@ -79,7 +85,7 @@
         "@type": "WebPage",
         "@id": "/posts/algorithms-js-string-reversal"
     },
-    "description": "I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are."
+    "description": "In this javascript algorithm, I would be sharing with us different methods to reverse a string in javascript. This is a common exercise in coding interviews, entry level algorithm challenges, though implementation in various languages may be different we would be looking at how to reverse a string in javascript,"
 }
     </script>
 
@@ -96,7 +102,7 @@
 
 
 </head>
-<body class="home-template">
+<body class="post-template">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
@@ -116,6 +122,14 @@ into the {body} of the default.hbs template -->
                 <a class="site-nav-logo" href="/"><img src="/assets/images/am.png" alt="Andrew Miracle" /></a>
             
         
+        
+            <ul class="nav" role="menu">
+    
+    <li class="nav-about" role="menuitem"><a href="/about/">About</a></li>
+    <li class="nav-about" role="menuitem"><a href="/brands/">Brands</a></li>
+    <li class="nav-getting-started" role="menuitem"><a href="/tag/journal/">Journal</a></li>
+</ul>
+
         
     </div>
     <div class="site-nav-right site-nav-light">
@@ -147,14 +161,24 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
 
     
+    <figure class="post-full-image" style="background-image: url(/assets/images/string-reverse.jpg)">
+    </figure>
+    
 
     <div class="inner">
-        <article class="post-full  no-image">
+        <article class="post-full  ">
 
             <header class="post-full-header">
                 <h1 class="post-full-title">String Reversal in Javascript</h1>
                 <section class="post-full-meta">
                     <time class="post-full-meta-date" datetime="31 January 2019">31 January 2019</time>
+                    
+                        <span class="date-divider">/</span>
+                        
+                            
+                               <a href='/tag/code/'>CODE</a>
+                            
+                        
                     
                 </section>
             </header>
@@ -163,9 +187,7 @@ into the {body} of the default.hbs template -->
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    <blockquote>#30 days of Javascript Algorithms - D1</blockquote>
-
-<p>In this javascript algorithm, I would be sharing with us different methods to reverse a string in javascript.
+                    <p>In this javascript algorithm, I would be sharing with us different methods to reverse a string in javascript.
 This is a common exercise in coding interviews, entry level algorithm challenges, though implementation in various languages may be different we would be looking at how to reverse a string in javascript, hope this helps you.</p>
 
 <h2 id="task">Task</h2>
@@ -231,11 +253,24 @@ This is a common exercise in coding interviews, entry level algorithm challenges
   <span class="k">return</span> <span class="nx">reversed</span><span class="p">;</span>
 <span class="p">}</span>
 </code></pre></div></div>
+
 <p>The for Of loop can iterate through Arrays, Strings and Javascript constructs that return <code class="highlighter-rouge">true</code> to the <code class="highlighter-rouge">propertyIsEnumerable</code> arguement.</p>
 
 <p><a href="https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/">Learn More about Algorithms from : The Coding Interview Bootcamp: Algorithms + Data Structures </a></p>
 
                 </div>
+
+
+                <!-- Email subscribe form at the bottom of the page -->
+                <div class="inner subscribe__frame-embed">
+                    <!-- <section class="subscribe-form"> -->
+                        <h3 class="subscribe-form-title">Subscribe to my Newsletter</h3>
+                        <p>Get the latest of my posts and podcasts delivered right to your inbox</p>
+                        <iframe src="https://koolamusic.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+                    <!-- </section> -->
+                </div>
+                <!--  -->
+
                  <!-- Go to www.addthis.com/dashboard to customize your tools inline sharing --> 
                  <div class="addthis_inline_share_toolbox"></div> 
             </section>
@@ -245,19 +280,7 @@ This is a common exercise in coding interviews, entry level algorithm challenges
     </div>
 </main>
 
-            <!-- Email subscribe form at the bottom of the page -->
-            
 
-            <!-- Everything inside the #author tags pulls data from the author -->
-            <!-- #author--
-                    <footer class="post-full-footer">
-                
-                    
-                
-                    
-                
-            </footer>
-            </author  -->
 
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which
@@ -274,7 +297,7 @@ This is a common exercise in coding interviews, entry level algorithm challenges
                         };
                         (function() {
                             var d = document, s = d.createElement('script');
-                            s.src = 'https://andrew-miracle.disqus.com/embed.js';
+                            s.src = 'https://localhost-epkwmenbs3.disqus.com/embed.js';
                             s.setAttribute('data-timestamp', +new Date());
                             (d.head || d.body).appendChild(s);
                         })();
@@ -291,24 +314,128 @@ This is a common exercise in coding interviews, entry level algorithm challenges
     <div class="inner f9f9fa">
         <div class="read-next-feed">
             
+                
+                
+                
+                
+                    <article class="read-next-card"
+                        
+                            style="background-image: url(/assets/images/blog-cover.jpg)"
+                        
+                    >
+                        <header class="read-next-card-header">
+                            <small class="read-next-card-header-sitetitle">&mdash; Andrew Miracle &mdash;</small>
+                            
+                                <h3 class="read-next-card-header-title"><a href="/tag/code/">Code</a></h3>
+                            
+                        </header>
+                        <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
+</div>
+                        <div class="read-next-card-content">
+                            <ul>
+                                
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/posts/what-can-programming-do-for-me">What can a course in programming to do you ?</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/posts/algorithms-js-palindrome">Palindrome in Javascript</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/posts/dive-to-code-or-wireframe">Dive straight to code or wireframe</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                            </ul>
+                        </div>
+                        <!-- <footer class="read-next-card-footer">
+                            <a href="/tag/code/">
+                                
+                                    See all 3 posts  →
+                                
+                            </a>
+                        </footer> -->
+                    </article>
+                
+            
 
             <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
             
                 
 
-    <article class="post-card  no-image">
+    <article class="post-card post-template">
+        
+            <a class="post-card-image-link" href="/posts/valuable-guides-for-living">
+                <div class="post-card-image" style="background-image: url(/assets/images/living-guide.jpeg)"></div>
+            </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/posts/algorithms-js-palindrome">
+            <a class="post-card-content-link" href="/posts/valuable-guides-for-living">
                 <header class="post-card-header">
                     
+                        
+                            
+                               <span class="post-card-tags">Journal</span>
+                            
+                        
+                            
+                                <span class="post-card-tags">Life</span>
+                            
+                        
+                    
 
-                    <h2 class="post-card-title">Palindrome in Javascript</h2>
+                    <h2 class="post-card-title">7 Valuable guides for Living</h2>
                 </header>
 
                 <section class="post-card-excerpt">
                     
-                        <p></p>
+                        <p>In this javascript algorithm, I would be sharing with us different methods to reverse a string in javascript. This is a common exercise in coding interviews, entry level algorithm challenges, though implementation inlorem</p>
                     
                 </section>
             </a>
@@ -334,7 +461,11 @@ This is a common exercise in coding interviews, entry level algorithm challenges
             
                 
 
-    <article class="post-card post-template no-image">
+    <article class="post-card post-template">
+        
+            <a class="post-card-image-link" href="/posts/boiled-plantain">
+                <div class="post-card-image" style="background-image: url(/assets/images/plantain.jpg)"></div>
+            </a>
         
         <div class="post-card-content">
             <a class="post-card-content-link" href="/posts/boiled-plantain">
@@ -355,7 +486,7 @@ This is a common exercise in coding interviews, entry level algorithm challenges
                 </header>
                 <section class="post-card-excerpt">
                     
-                        <p></p>
+                        <p>In this javascript algorithm, I would be sharing with us different methods to reverse a string in javascript. This is a common exercise in coding interviews, entry level algorithm challenges, though implementation in</p>
                     
                 </section>
             </a>
@@ -560,13 +691,6 @@ This is a common exercise in coding interviews, entry level algorithm challenges
         </div>
     
 
-    <!-- highlight.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
-    <script>$(document).ready(function() {
-      $('pre code').each(function(i, block) {
-        hljs.highlightBlock(block);
-      });
-    });</script>
 
     <!-- jQuery + Fitvids, which makes all video embeds responsive -->
     <script
@@ -576,6 +700,15 @@ This is a common exercise in coding interviews, entry level algorithm challenges
     </script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
 
+
+        <!-- highlight.js -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
+        <script>$(document).ready(function() {
+          $('pre code').each(function(i, block) {
+            hljs.highlightBlock(block);
+          });
+        });</script>
+    
     <!-- Paginator increased to "infinit" in _config.yml -->
     <!-- if paginator.posts  -->
     <!-- <script>
@@ -606,6 +739,71 @@ This is a common exercise in coding interviews, entry level algorithm challenges
 
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    
+        <script>
+
+// NOTE: Scroll performance is poor in Safari
+// - this appears to be due to the events firing much more slowly in Safari.
+//   Dropping the scroll event and using only a raf loop results in smoother
+//   scrolling but continuous processing even when not scrolling
+$(document).ready(function () {
+    // Start fitVids
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    // End fitVids
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        // show/hide floating header
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+
     
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->

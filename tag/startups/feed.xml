@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/startups/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2019-11-02T08:04:52+00:00</updated>
+  <id>/tag/startups/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Andrew Miracle | </title>
+  
+
+  
+    <subtitle>I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Lessons learned from building for startups</title>
+      <link href="/posts/lessons-learned-from-startups" rel="alternate" type="text/html" title="Lessons learned from building for startups" />
+      <published>2019-01-01T00:00:00+00:00</published>
+      <updated>2019-01-01T00:00:00+00:00</updated>
+      <id>/posts/lessons-learned-from-startups</id>
+      <content type="html" xml:base="/posts/lessons-learned-from-startups">&lt;p&gt;Although we’d like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines – and budgets. We product owners need to think about how we manage this.&lt;/p&gt;
+
+&lt;p&gt;Browsers update regularly, making frequent, (mostly) small changes. This causes little disruption for users. It’s rare you’ll download a big update and find everything is completely different. This is is how we’d like to develop software over several years, especially with embedded systems.&lt;/p&gt;
+
+&lt;p&gt;But let’s say you have a finite budget and, consequently, a set-in-stone launch date – like the ship in the above picture. The expectation is that the product will be ready, and won’t sink if it bumps into any icebergs.&lt;/p&gt;
+
+&lt;p&gt;If your best feedback will come from real usage, you might plan a beta phase, as we did when developing library self-service software. This is useful,but there’s a big difference between a controlled roll out to 4 small libraries, and installing kiosks in over 20 libraries within various institutions in a region, where staff are less invested in the new product and require understanding to be able to utilize the benefits of the product.&lt;/p&gt;
+
+&lt;p&gt;We unearthed user problems during the launch I would have liked to have fixed more quickly, but we ran up against the big launch date curse of &lt;em&gt;no more project money&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The lesson learned is therefore quite simple:&lt;/p&gt;
+
+&lt;blockquote&gt;If you have an official launch date, make sure there is some project budget remaining for further changes after this date.&lt;/blockquote&gt;
+
+&lt;p&gt;Note: It’s important this money is kept aside for the project. There’s little value in coming in under budget (besides some temporary good PR that’ll come back to bite you later in your career) if your product isn’t perfect – and it’ll never be perfect.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Andrew Miracle</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="web" />
+      
+        <category term="startups" />
+      
+        <category term="journal" />
+      
+
+      
+        <summary type="html">Although we’d like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines – and budgets. We product owners need to think about how we manage this.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

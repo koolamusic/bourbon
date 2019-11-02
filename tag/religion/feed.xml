@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/religion/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2019-11-02T08:04:52+00:00</updated>
+  <id>/tag/religion/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Andrew Miracle | </title>
+  
+
+  
+    <subtitle>I am  a Product Designer and Business Strategist, My expertise is compassed from my long years of experience in software development, data analysis and technical team management for my consulting company TECMIE. These days, I live more freely, enjoy good music and contribute to growth of other software developers through platforms like codingcoach_ and other notable slack developer commnities, I founded TETA and current nate about data analytic and how it drives consumer growth, I am also keen on strong workplace ethics and company culture, because I understand that is what drive enterprise organizations and keep them where they are.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">How God Coded the High Priest Order</title>
+      <link href="/posts/god-code-high-priest-order" rel="alternate" type="text/html" title="How God Coded the High Priest Order" />
+      <published>2017-06-18T00:00:00+00:00</published>
+      <updated>2017-06-18T00:00:00+00:00</updated>
+      <id>/posts/god-code-high-priest-order</id>
+      <content type="html" xml:base="/posts/god-code-high-priest-order">&lt;p&gt;If Prayer had version control, we can argue that the alpha edition were experienced in the old testament, all protocols went through the high priest into the inner chamber who them &lt;code&gt;dispatched(prayer.actions)&lt;/code&gt; through &lt;a href=&quot;#&quot;&gt;api.heaven&lt;/a&gt;. In this model prayer was a single threaded protocol. &lt;/p&gt;
+
+&lt;pre&gt;Hebrew 7-10&lt;/pre&gt;
+
+&lt;p&gt;Then Jesus Jesus came it was no longer single threaded through a High Priest. We all had access to the &lt;code&gt;{Global}&lt;/code&gt; Object and could speak with the Father (trinity), Jesus christ gave us access to the the event listeners in the &lt;b&gt;HOM (Heaven Object Model)&lt;/b&gt;, and now we could send our requests directly to the father, more importantly we can stack our events to heaven in a multi threaded fashion, faster than the V8 Engine in &lt;a href=&quot;https://nodejs.com&quot;&gt;NodeJS&lt;/a&gt;
+
+&lt;p&gt;Well, this is wild thought and you should have an open mind, in some way I think God is the father of Programmers, and he has replicated everything we ever want to think of in software into the processes in humanity. &lt;/p&gt; 
+&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="journal" />
+      
+        <category term="religion" />
+      
+
+      
+        <summary type="html">If Prayer had version control, we can argue that the alpha edition were experienced in the old testament, all protocols went through the high priest into the inner chamber who them dispatched(prayer.actions) through api.heaven. In this model prayer was a single threaded protocol.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/web/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-10-30T00:27:39+00:00</updated>
+  <updated>2019-11-02T08:04:52+00:00</updated>
   <id>/tag/web/feed.xml</id>
 
   
@@ -35,11 +35,11 @@
   
     <entry>
       <title type="html">Lessons learned from building for startups</title>
-      <link href="/posts/developing-for-startups" rel="alternate" type="text/html" title="Lessons learned from building for startups" />
+      <link href="/posts/lessons-learned-from-startups" rel="alternate" type="text/html" title="Lessons learned from building for startups" />
       <published>2019-01-01T00:00:00+00:00</published>
       <updated>2019-01-01T00:00:00+00:00</updated>
-      <id>/posts/developing-for-startups</id>
-      <content type="html" xml:base="/posts/developing-for-startups">&lt;p&gt;Although we’d like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines – and budgets. We product owners need to think about how we manage this.&lt;/p&gt;
+      <id>/posts/lessons-learned-from-startups</id>
+      <content type="html" xml:base="/posts/lessons-learned-from-startups">&lt;p&gt;Although we’d like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines – and budgets. We product owners need to think about how we manage this.&lt;/p&gt;
 
 &lt;p&gt;Browsers update regularly, making frequent, (mostly) small changes. This causes little disruption for users. It’s rare you’ll download a big update and find everything is completely different. This is is how we’d like to develop software over several years, especially with embedded systems.&lt;/p&gt;
 
@@ -72,9 +72,13 @@
       
         <category term="web" />
       
+        <category term="startups" />
+      
+        <category term="journal" />
+      
 
       
-        <summary type="html">Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch.</summary>
+        <summary type="html">Although we’d like to develop products and services iteratively, the truth is organisations think in terms of strict deadlines – and budgets. We product owners need to think about how we manage this.</summary>
       
 
       
