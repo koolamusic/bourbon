@@ -37,7 +37,7 @@ medium: koolamusic
 
 # Disqus
 disqus: True
-disqus_shortname: localhost-epkwmenbs3 # replace with your disqus username
+disqus_shortname: andrew-miracle # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-52368657-4 # replace with your GA tracking identifier
