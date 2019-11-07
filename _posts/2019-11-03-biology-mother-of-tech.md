@@ -28,7 +28,6 @@ Nature loves when tech is working in its favour, that's why we find Cannabis and
 
 Neural networks existed within the deep roots of trees that allow them to share nutrients and communicate.
 
-
 Trees have their neural networks : The applications of deep learning are growing so vast that it has made a great headway into areas requiring heavy computing. And, the elements that make up DL models — artificial neural networks (ANN) — can be said to be the driving force behind the subject. 
 
 In the [paper](https://arxiv.org/pdf/1711.09784.pdf) Distilling a Neural Network Into a Soft Decision Tree, Hinton and Prosst tell why decision trees are preferred to elucidate neural nets. “Unlike the hidden units in a neural net, a typical node at the lower levels of a decision tree is only used by a very small fraction of the training data so the lower parts of the decision tree tend to overfit unless the size of the training set is exponentially large compared with the depth of the tree.”
