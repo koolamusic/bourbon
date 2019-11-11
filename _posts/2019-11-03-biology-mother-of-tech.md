@@ -2,7 +2,7 @@
 layout: post
 current: post
 class: post-template
-title: Biology, the Mother of Tech
+title: Nature, the Mother of Tech
 excerpt: Birds could fly before the Wright brothers created the plane, Neural networks existed within the deep roots of trees that allow them to share nutrients and communicate
 navigation: True
 tag: ['journal', 'code']
@@ -48,4 +48,15 @@ Bug and error reporting, Garbage collection
 Blockchain today is trying to relive the same concepts of publicly immutable ledger where all transactions are recorded and known among all parties, today we relive that concepts already in childbirth, whereas we have smart contracts where two conditions meet for a transaction to be recorded on the ledger, in childbirth we have two more so dumb contract where consent is given by two parties and there is a constantly estimated time to arrival **~9months** with which a transaction can be recorded as complete.
 
 
-Blockchain and Childbirth
+### Blockchain and Childbirth
+Blockchain can be used to prove ownership when procuring or disposing of an asset. It can also help to track the history of an assets and related maintenance activities. 
+
+A Blockchain is a type of diary or spreadsheet containing information about transactions. Each transaction generates a hash. ... If a transaction is approved by a majority of the nodes then it is written into a block. Each block refers to the previous block and together make the Blockchain
+
+
+
+- AI exists because of Natural Intelligence (Today Chams can auto adapt- case study)
+- Neural Networks existed within Trees
+- Blockchain Networks are trying to do what DNA's have been doing long time ago
+
+So what modern invention are we looking in tech today that we cannot link to nature.
