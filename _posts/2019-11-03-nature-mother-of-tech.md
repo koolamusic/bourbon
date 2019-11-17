@@ -10,9 +10,11 @@ cover: assets/images/biology_mother_tech01.jpg
 ---
 
 
+# DRAFT MODE
+
+I never really figured out the angle for this article, so I'll just dump stuff here until it makes sense from a user point of view.
+
 Birds could fly before the wright brothers created the plane, possible to argue is the statement that they didn't create the plane, according to their [patent](https://en.wikipedia.org/wiki/Wright_brothers_patent_war), which stirred controversy for over a decade and even after their death. _The Wright brothers claimed to have created an aeronautical flying control system_ which proves that we were only trying to understand what nature had already designed, flight, which eagles and birds of all kinds have been utilizing, although the Wright brothers weren't the only ones working on the invention of **flight** systems during their time, why theirs succeded was because other inventors were more focused on creating highly efficient flight engines, without considering the conditions of the pilots who would control the plane, thus the Wright brothers were able to breakthrough because they designed from the Pilot's perspective, doing so would enable them conduct further user experiments to improve flight control and efficiency, citing a case where nature is one step ahead of us.
-
-
 
 
 Nature and biology has already perfected theories which we today seek for in science and technology.
@@ -37,23 +39,18 @@ Hinton and Frosst use the neural network itself to train on a decision tree. If 
 Chameleons can change their color according to their environment in order to blend in
 
 
-
-
-
-
-
-
 Bug and error reporting, Garbage collection
 
 Blockchain today is trying to relive the same concepts of publicly immutable ledger where all transactions are recorded and known among all parties, today we relive that concepts already in childbirth, whereas we have smart contracts where two conditions meet for a transaction to be recorded on the ledger, in childbirth we have two more so dumb contract where consent is given by two parties and there is a constantly estimated time to arrival **~9months** with which a transaction can be recorded as complete.
 
 
 ### Blockchain and Childbirth
+
 Blockchain can be used to prove ownership when procuring or disposing of an asset. It can also help to track the history of an assets and related maintenance activities. 
 
 A Blockchain is a type of diary or spreadsheet containing information about transactions. Each transaction generates a hash. ... If a transaction is approved by a majority of the nodes then it is written into a block. Each block refers to the previous block and together make the Blockchain
 
-
+#### Important to note
 
 - AI exists because of Natural Intelligence (Today Chams can auto adapt- case study)
 - Neural Networks existed within Trees

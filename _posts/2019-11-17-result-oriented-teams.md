@@ -16,7 +16,7 @@ Adopting from the (OKR Playbook)[https://weekdone.com/resources/objectives-key-r
 
 ### What are Objective Driven Team Structures
 
-The first consideration in organizing a team is to determine the team's broad objective. Here are the broad objectives according to Larson and LaFasto 
+The first consideration in organizing a team is to determine the team's broad objective. Here are the broad objectives according to Larson and LaFasto
 
 • Problem resolution
 • Creativity
