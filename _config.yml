@@ -43,6 +43,8 @@ disqus_shortname: andrew-miracle # replace with your disqus username
 algolia:
   application_id: 'URCWH72LX4'
   index_name: koolamusic
+  files_to_exclude: []
+  nodes_to_index: '_posts'
   # algolia:                                                                       
     # application_id: 'URCWH72LX4'
 
@@ -60,7 +62,7 @@ permalink: posts/:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap, jekyll-algolia]
 
 feed:
   path: feed.xml
