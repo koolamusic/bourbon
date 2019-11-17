@@ -4,7 +4,9 @@ current: post
 class: post-template
 date: "2019-11-15 21:00"
 title: Why do teams fail ?
-excerpt: every successful team needs two set of individuals, a SWAT and a supporter according to the M****** rule of leadership
+navigation: True
+tag: teams
+# excerpt: every successful team needs two set of individuals, a SWAT and a supporter according to the M****** rule of leadership
 ---
 
 
