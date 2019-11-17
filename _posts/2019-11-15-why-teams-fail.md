@@ -6,6 +6,7 @@ date: "2019-11-15 21:00"
 title: Why do teams fail ?
 navigation: True
 tag: teams
+cover: assets/images/team-fail.jpg
 # excerpt: every successful team needs two set of individuals, a SWAT and a supporter according to the M****** rule of leadership
 ---
 

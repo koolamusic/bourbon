@@ -6,6 +6,7 @@ navigation: True
 tag: teams
 date: "2019-11-17 21:00"
 title: Objective Driven Team Structure
+cover: assets/images/team-result.jpg
 ---
 
 
