@@ -2,18 +2,21 @@
 layout: post
 current: post
 class: post-template
+navigation: True
+tag: teams
 date: "2019-11-17 21:00"
 title: Objective Driven Team Structure
+cover: assets/images/team-result.jpg
 ---
 
 
 Team members are often chosen for the wrong reasons: for example, they are often chosen because they have an interest in the project, because their wage is affordable, or most often simply because they are available. They are not chosen with objective actualization in mind. This brings to attention the need for developing a team formation structure that is focused on optimal output. **Structuring teams for optimal output are at the core of the Result Driven Team Methodology**
 
-Adopting from the OKR Playbook (Objectives and Key Results), a popular management strategy for goal setting within organizations driven by connecting companies, teams and personal goals to measurable results while having all team members and leaders work together in one, unified direction.
+Adopting from the (OKR Playbook)[https://weekdone.com/resources/objectives-key-results] (Objectives and Key Results), a popular management strategy for goal setting within organizations driven by connecting companies, teams and personal goals to measurable results while having all team members and leaders work together in one, unified direction.
 
 ### What are Objective Driven Team Structures
 
-The first consideration in organizing a team is to determine the team's broad objective. Here are the broad objectives according to Larson and LaFasto 
+The first consideration in organizing a team is to determine the team's broad objective. Here are the broad objectives according to Larson and LaFasto
 
 • Problem resolution
 • Creativity
