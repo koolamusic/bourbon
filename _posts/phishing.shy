@@ -1,0 +1,41 @@
+---
+layout: post
+current: post
+class: post-template
+title: Responding to Phishing attacks
+tag: ['security','startup','ux']
+subsclass: 'post tag-security'
+cover: assets/images/phishing.jpg
+navigation: True
+header: dark
+---
+
+So you think your organization has become a recent target for a phishing attack, like all things in information security, we can't completely eliminate the risk, so it’s important to proactively prepare an effective response strategy. So, what do you do if you suspect or know there was a successful phishing attack against your organization? Here is our list of 14 things you need to do when it happens:
+
+
+**Here are some steps you can take as a startup to mitigate risks when this happens:**
+
+- Activate Incidence Response
+
+You do have an incident response plan, right? You have done an IR tabletop to test how smoothly things go, right? After you confirm that you are dealing with a real incident, draw the shades, grab the playbook, and order pizza. You’ll need to figure out the who, what, when, and where of the incident — as well as what time to tell your family you think you’ll be home the next day.
+
+- Be Proactive
+    This in line with your IR procedure requires your organization to scale up security infrastructure, monitoring services on your softwares and take actions to ensure your users are informed about the potential of malicious attacks on them as your service has become valuable. Communicate from your homepage
+
+- Audit and retain your logs
+
+- Cleanup 
+obtain a copy of the email with all signatures and re-validate all user credentials [password-reset]
+
+
+    Identification
+
+    This is the first step in responding to a Phishing attack. At this stage, an alert is “sounded” of an impending Phishing attack, and it must be further investigated into. It is important to collect as much information and data about the Phishing E-Mail, and the following items should be captured:
+    The E-Mail address of the sender;
+    The intended recipient of the E-Mail;
+    The Subject Line of the particular E-Mail;
+    Carefully examine the E-Mail message
+
+
+
+- Send a Communication Email
