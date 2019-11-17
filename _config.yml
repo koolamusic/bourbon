@@ -41,12 +41,10 @@ disqus_shortname: andrew-miracle # replace with your disqus username
 
 # Jekyll Algolia Configuration
 algolia:
-  application_id: 'URCWH72LX4'
+  application_id: URCWH72LX4
   index_name: koolamusic
+  search_only_api_key: 1586b65c714fbd834a502f35bfc0392c
   files_to_exclude: []
-  nodes_to_index: '_posts'
-  # algolia:                                                                       
-    # application_id: 'URCWH72LX4'
 
 # Google Analytics
 google_analytics: UA-52368657-4 # replace with your GA tracking identifier

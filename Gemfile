@@ -5,5 +5,5 @@ gem "github-pages", "~> 171"
 gem "rake", "~> 12.3.1"
 
 group :jekyll_plugins do
-    gem 'jekyll-algolia'
-  end
+  gem 'jekyll-algolia', '~> 1.0'
+end
