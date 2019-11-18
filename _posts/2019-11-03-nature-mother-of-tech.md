@@ -24,7 +24,7 @@ Consider machine learning and Neural networks, and How Trees already have a deep
 Machine Learning and Deep learning leverages the concept of neural networks and _decision trees_ in order to build highly complicated recommendation and learning systems.
 
 
-Trees today has VOCS and Mi***** which allow them to shutdown or call for help, If you love foraging grasses and picnics you will realize that when you seat on the grass for so long, its only a matter of time before unfriendly insects begin to disturb your peace, because their neighbouring grasses have called for their help to push you human away from sitting down on them and suffocating them of air. piece of advise change your location.
+Trees today has VOCS and [mycorrhizae](http://nautil.us/issue/77/underworldsnbsp/never-underestimate-the-intelligence-of-trees) which allow them to shutdown or call for help, If you love foraging grasses and picnics you will realize that when you seat on the grass for so long, its only a matter of time before unfriendly insects begin to disturb your peace, because their neighbouring grasses have called for their help to push you human away from sitting down on them and suffocating them of air. piece of advise change your location.
 
 Nature loves when tech is working in its favour, that's why we find Cannabis and Agritech startups receiving the best in support they need. [Twiga Food lands over $30Million](https://news.crunchbase.com/news/twiga-foods-lands-over-30m-nairobis-largest-known-financing-round-of-the-year/) in Financing
 
@@ -42,7 +42,6 @@ Chameleons can change their color according to their environment in order to ble
 Bug and error reporting, Garbage collection
 
 Blockchain today is trying to relive the same concepts of publicly immutable ledger where all transactions are recorded and known among all parties, today we relive that concepts already in childbirth, whereas we have smart contracts where two conditions meet for a transaction to be recorded on the ledger, in childbirth we have two more so dumb contract where consent is given by two parties and there is a constantly estimated time to arrival **~9months** with which a transaction can be recorded as complete.
-
 
 ### Blockchain and Childbirth
 
