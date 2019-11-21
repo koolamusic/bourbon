@@ -7,51 +7,44 @@ title: Why do teams fail ?
 navigation: True
 tag: teams
 cover: assets/images/team-fail.jpg
-# excerpt: every successful team needs two set of individuals, a SWAT and a supporter according to the M****** rule of leadership
+excerpt: Most team problems arise from a lack in MOI, which stands for Motivation, Organization and Information, evidence from retrogressive teams prove that the lack of initial motivation and drive, or a clear sense of hierachy
 ---
 
 
-Most team problems are associated with an inefficiency in MOI, which stands for Motivation, Organization and Information, evidence from regressive teams prove that the lack of initial motivation and drive, or a clear sense of hierachy, structure and rules of engagement in organizations and even the lack of resource to consume in order to understand how to accomplish goals breaks down a majority of teams formed. 
+Retrogressive teams are usually characterized by a lack in MOI, which is an acronym for Motivation, Organization and  Information.
 
-We see this illustrated in our everyday life from our favorite sports, bands, groups in a varying array, a major number of successful teams in the face of these constraints have two things in common, these teams have a SWAT and a Supporter as part of the team. 
+A lack of energy and drive can be detrimental to teams right after formation, considering that motivation is spawned in stages, team leaders should invest time and effort into keeping energy levels high at all time. A clear sense of hierarchy, structure and rules of engagement in organizations can keep team members prepared on how to deliver results whereas the lack of resources to consume for the purpose of understanding how to accomplish goals break down a majority of teams right after formation.
 
-The term SWAT adopted from from Steve McConell's work is an acronym for *Skilled With Advanced Tools*, this refers to a specific individual that possess domain specific knowlege, or deep technical skills in an platform, area, framework or language, a SWAT is a master in his field and understands all the code and nuances of his subject matter.
+We see this illustrated in our everyday life from our favourite sports, bands, groups in a varying array, a major number of successful teams in the face of these constraints have two things in common, these teams have a SWAT and a Supporter as part of the team.
 
-Whereas we adapt the Supporter role from Dr. Meredith Belbins research on Team Leadership roles based on Action Oriented, Thought Oriented and People Oriented Team structures, He explains that a supporter builds on team members' strengths and underpins their
-shortcomings. Provides emotional leadership and fosters team spirit. Improves communications among team members. 
+The term **SWAT** adopted from [Steve McConnell's](https://www.amazon.com/Rapid-Development-Taming-Software-Schedules/dp/1556159005) work is an acronym for Skilled With Advanced Tools, this refers to a specific individual that possess domain-specific knowledge, or deep technical skills in a platform, area, framework or language, a SWAT is a master in his field and understands all the code and nuances of his subject matter.
 
-#### For References here are a quick rundown of all Leadership Roles from Belbin's work
+Whereas we learn about the **Supporter** from Dr. Meredith Belbins research on [Team Leadership](https://andrewmiracle.com/posts/team-leadership-roles) based on People-Oriented Team structures. Here he defines a Supporter, as a person who builds on team members' strengths and underpins their shortcomings. A supporter Provides emotional leadership and fosters team spirit to improve communications among team members.
 
-- Driver: controls team direction at a. detailed, tactical level. Defines things, steers and shapes group discussions and activities.
-- Coordinator: controls team direction at the highest, strategic level. Moves the problem-solving forward by recognizing strengths and weaknesses and making the best use of human and other resources.
-- Originator: provides leadership in ideas, innovating and inventing ideas and strategies, especially on major issues. 
-- Monitor: analyzes problems from a practical point of view and evaluates ideas and suggestions so that the team can make balanced decisions.
-- Implementer: converts concepts and plans into work procedures and carries out group plans efficiently and as agreed. 
-- Investigator—Explores and reports on ideas, developments, and resources outside the group. Creates external contacts that may be useful to the group.
-- Finisher—Ensures that all necessary work is completed in all details. Seeks work that needs greater than average attention to detail, and maintains the group's focus and sense of urgency.
+Apparently as much as we may want to pose that most teams fail, we must understand that failure is a state of the mind, from the IBM Design Thinking Playbook, as [Diverse Empowered Teams](https://www.ibm.com/design/thinking/page/framework/principles/diverse-empowered-teams) focused on a Hill, it  is important to fail fast, this process regards failure as a learning opportunity, in order words, fail fast and iterate quickly.
 
-Over the course of the years, Dr. Belbin's research has immersed into team structures which you might find interesting to dig further into (Team roles Belbin)[https://www.belbin.com/about/belbin-team-roles/]
+> As Thato Rammoko quotes Humans never fail, We only run out of Time, Scope or Capacity
 
-Apparently as much as we may want to pose that most teams fail, we must understand that failure is a state of the mind, from the IBM Design Playbook, as Multidisciplinary independent teams focused on a Hill, it is important to fail fast, regarding failure as a learning opportunity, in order words, fail fast and iterate quickly. 
-> As Thato Rammoko quotes **Humans never fail, We only run out of Time, Scope or Capacity** 
+The TSC (Time, Scope and Capacity) school of thought is a large enough argument for another article.
 
-This referred to as the **TSC** arguement is a topic for another day.
+### Characteristics of Dysfunctional Teams?
 
-## Why do Teams Fail ?
+![Team Fail Illustration](/assets/images/team-fail-illustration.jpg)
 
-- Autonomy, this can be related to the Diverse Talented team in the IBM Design Thinking Course, where teams should be bound by a common goal and objective, not by processes, identifying
+The cohesiveness of a group depends on the total field of forces that act on that group. From [Corporate Skunkworks](https://fortune.com/2017/06/15/corporate-skunkworks-innovation-startups-facebook-oracle-walmart/) to Feature Teams etc, being able to identify a point of instability within a team can help towards streamlining objectives and goals amongst members even better. Here are some indicators you can look out for:
 
-- MOI, Motivation, Objective, I***
-- Supporter, every team needs a supporter, a common arguement within this brings about the need for gender balance among teams, because in over 50% of the time, females are more empathic than their male fellow.
-- Not deciding on a conflict resolution framework, most people try to shy away from conflict so they don't hurt their team mates feelings, establishing a line of action in case of conflict and opening up communication can save a team from breaking up during conflicts. acccording to Tukman's law[link], this stage commonly referred to as the storming stage is completely inevitable and would eventually come, what is best is for the team to get past this cycle. The truth is that at the point of any major breakthrough, the most successful team had to navigate past their storm stage to get to where they are today.
+- Autonomy: Autonomy is the degree to which you have control over the means and methods you use to perform your work. Trust plays a role in defining autonomy. Teams lacking in this element are plagued with team members that feel no personal responsibility for the outcome of their work. It's vital for teams to be bound by common goals and objectives, not by processes.
 
-## Indicators of a Dysfunctional Team
+- Lengthy Conflicts: Establishing a line of action in case of conflict and opening up communication can save a team from breaking up during conflicts.  If we take a look at [Tuckman's Team Building Model](https://www.mindtools.com/pages/article/newLDR_86.htm), this stage referred to as the storming stage is almost inevitable, as working out a conflict resolution framework early on is beneficial, as most people try to shy away from conflicts. The truth is that at the point of any major breakthrough, the most successful team had to navigate past their storm stage to get to where they are today.
 
-The cohesiveness of a group depends on the total field of forces that act on that group. Taking to account the models that direct the formation of teams, from (Corporate Skunkworks team )[https://fortune.com/2017/06/15/corporate-skunkworks-innovation-startups-facebook-oracle-walmart/], Feature Teams, SWAT (Special Weapons And Tactics) Teams, Feature Teams, being able to idenity a point of instability within the team can help towards streamlining objectives and goals amongst members even better, Signs that a team isn't functioning well are: 
+- Rigidity among roles being played: You observe this as teammates begin to cleave to titles. In a well-oiled team, team members are interdependent on each other, which means that they rely on the individual strengths of other team members, and they all do what's best for the team. It is vital to highlight that during team formation, team members gradually take on roles that are not just best for them individually but that is best for the team as a whole. In this way, everyone gravitates toward productive positions, and no one feels left out.
 
-- Rigidity among roles being played.
-- Lack of commitment
-- Lack of Trust and Mutual confidence, Larson has stated that Trust hangs on Honesty, Opennes, Consistency and Respect
+- Low level of commitment: As described with autonomy, this means sacrifice. For the benefits of the team, team members would sacrifice time and opportunity. High levels of commitment are essential to firmly coupled team. A decline in this activity is a clear warning sign.
 
-These are a few indicators among others, just as team structures are chosen for the wrong reasons, team members are often chosen for the wrong reasons: for example, they are often chosen because they have an interest in the project, because their wage is affordable, or most
-often simply because they are available. They are not chosen with objective actualization in mind. This brings to attention the need for developing a team formation structure that is focused on optimal output. **Structuring teams for optimal output are at the core of the Result Driven Team Methodology**. A group of individuals who are driven by a common goal and vision and are invested in goals and objectives of the team.
+- Lack of communication: It may take some time to gain effective communication, in music bands the leading artist usually uses a few hand gestures to tell her instrumentalists when a cue is changing and these happen without anyone in the audience being able to tell the difference
+
+- Lack of Trust and Mutual confidence: Larson and Lafasto have stated that Trust hangs four key principles: Honesty, Openness, Consistency and Respect.  Trust is less a cause than an effect of an effective team. You can't force the members of a team to trust each other. You can't set a goal of "Trust your teammates." But once project members commit to a common vision and start to identify with the team, they learn to be accountable and to hold each other accountable. When team members see that other team members truly have the team's interests at heart—and realize that they have a track record of being honest, open, consistent, and respectful with each other — trust will arise from that.
+
+These are a few indicators among others, just as team structures are sometimes chosen for the wrong reasons, team members are often chosen for the wrong reasons. This brings to attention the need for developing a team formation structure focused on optimal output. _Structuring teams for optimal output are at the core of the Result Driven Team Methodology_. A group of individuals who are driven by a common goal and vision and are invested in the goals and objectives of the team.
+
+While I’ve found these insights to have a wide range of applications, they are just the tip of the team management iceberg. Like all of us, I’m still learning, and I’m curious — Why do you think teams fail? What are the indicators you've come to associate with dysfunctional teams? Please, share them in the comments and help us all build better and stronger teams.
