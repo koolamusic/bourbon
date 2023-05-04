@@ -29,7 +29,7 @@ I live the Life of a dreamer, create immersive experiences with music and techno
 
 <div class="pt3"><hr></div>
 
-<p>I've written a blog since 2012 <a href="http://topinfoz.blogspot.com/">See my earliest Editions</a>. . Unsurprisingly, over the years what I've written about has changed, reflecting whatever I've been interested in at the time. Sometimes I'll write about something that just grabs my attention, other times I may make a lot of reference to food, since my friends at <a href="https://twitter.com/LearnFactoryNG">LearnFactory</a> has adorned me with the title 'Food for Africa' <blockquote>Hopefully I would solve the hunger problem of rural communities in Africa</blockquote>. I'll maintain this website as my personal journal from now on</p>
+<p>I've written a blog since 2012 <a href="http://topinfoz.blogspot.com/">See my earliest Editions</a>. . Unsurprisingly, over the years what I've written about has changed, reflecting whatever I've been interested in at the time. Sometimes I'll write about something that just grabs my attention, other times I may make a lot of reference to food. I'll maintain this website as my personal journal from now on</p>
 
 <p>Subscribe/contact me if you have any questions:</p>
 
